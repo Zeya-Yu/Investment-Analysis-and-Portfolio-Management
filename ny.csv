@@ -1,0 +1,3104 @@
+"","Symbol","industry"
+"1","DDD","Computer Systems"
+"2","MMM","Diversified Industrials"
+"3","WBAI","Gambling"
+"4","WUBA","Internet Content & Information"
+"5","EGHT","Telecom Services"
+"6","AHC","Publishing"
+"7","AOS","Diversified Industrials"
+"8","ATEN","Software - Infrastructure"
+"9","AAC","Medical Care"
+"10","AIR","Aerospace & Defense"
+"11","AAN","Rental & Leasing Services"
+"12","ABB","Diversified Industrials"
+"13","ABT","Medical Devices"
+"14","ABBV","Drug Manufacturers - Major"
+"15","ANF","Apparel Stores"
+"16","AGD","Asset Management"
+"17","AWP","Asset Management"
+"18","ACP","Asset Management"
+"19","JEQ","Asset Management"
+"20","AOD","Asset Management"
+"21","ABM","Business Services"
+"22","AKR","REIT - Retail"
+"23","ACN","Information Technology Services"
+"24","ACCO","Business Equipment"
+"25","ATV","Specialty Retail"
+"26","ATU","Diversified Industrials"
+"27","AYI","Electronic Components"
+"28","GOLF","Leisure"
+"29","ADX","Asset Management"
+"30","PEO","Asset Management"
+"31","AGRO","Farm Products"
+"32","ADNT","Auto Parts"
+"33","ADT","Security & Protection Services"
+"34","ATGE","Education & Training Services"
+"35","AAP","Specialty Retail"
+"36","ADSW","Waste Management"
+"37","WMS","Rubber & Plastics"
+"38","ASIX","Chemicals"
+"39","AVK","Asset Management"
+"40","ACM","Engineering & Construction"
+"41","AEB",NA
+"42","AED",NA
+"43","AEG","Insurance - Diversified"
+"44","AEH",NA
+"45","AER","Airports & Air Services"
+"46","HIVE","Communication Equipment"
+"47","AJRD","Aerospace & Defense"
+"48","AMG","Asset Management"
+"49","AFL","Insurance - Life"
+"50","MITT","REIT - Diversified"
+"51","MITT^A",NA
+"52","MITT^B",NA
+"53","AGCO","Farm & Construction Equipment"
+"54","A","Diagnostics & Research"
+"55","AEM","Gold"
+"56","ADC","REIT - Retail"
+"57","AL","Rental & Leasing Services"
+"58","AL^A",NA
+"59","APD","Chemicals"
+"60","AYR","Rental & Leasing Services"
+"61","AKS","Steel"
+"62","ALP^Q",NA
+"63","ALG","Farm & Construction Equipment"
+"64","AGI","Gold"
+"65","ALK","Airlines"
+"66","AIN","Textile Manufacturing"
+"67","ALB","Specialty Chemicals"
+"68","AA","Aluminum"
+"69","ALEX","REIT - Diversified"
+"70","ALX","REIT - Retail"
+"71","ARE","REIT - Office"
+"72","ARE^D",NA
+"73","AQN","Utilities - Independent Power Producers"
+"74","AQNA",NA
+"75","BABA","Specialty Retail"
+"76","Y","Insurance - Property & Casualty"
+"77","ATI","Metal Fabrication"
+"78","ALLE","Security & Protection Services"
+"79","AGN","Drug Manufacturers - Specialty & Generic"
+"80","ALE","Utilities - Regulated Electric"
+"81","AKP","Asset Management"
+"82","ADS","Credit Services"
+"83","AFB","Asset Management"
+"84","AWF","Asset Management"
+"85","AB","Asset Management"
+"86","CBH","Asset Management"
+"87","NCV","Asset Management"
+"88","NCV^A",NA
+"89","NCZ","Asset Management"
+"90","NCZ^A",NA
+"91","ACV","Asset Management"
+"92","NIE","Asset Management"
+"93","NFJ","Asset Management"
+"94","ALSN","Auto Parts"
+"95","ALL","Insurance - Property & Casualty"
+"96","ALL^A",NA
+"97","ALL^B",NA
+"98","ALL^D",NA
+"99","ALL^E",NA
+"100","ALL^F",NA
+"101","ALL^G",NA
+"102","ALLY","Specialty Finance"
+"103","ALLY^A",NA
+"104","AYX","Software - Application"
+"105","ATUS","Telecom Services"
+"106","MO","Tobacco"
+"107","ACH","Aluminum"
+"108","AMBR","Software - Application"
+"109","ABEV","Beverages - Brewers"
+"110","AMC","Media - Diversified"
+"111","AEE","Utilities - Regulated Electric"
+"112","AMRC","Engineering & Construction"
+"113","AMOV","Telecom Services"
+"114","AMX","Telecom Services"
+"115","AAT","REIT - Retail"
+"116","AXL","Auto Parts"
+"117","ACC","REIT - Residential"
+"118","AEO","Apparel Stores"
+"119","AEP","Utilities - Regulated Electric"
+"120","AEP^B",NA
+"121","AEL","Insurance - Life"
+"122","AXP","Credit Services"
+"123","AFG","Insurance - Property & Casualty"
+"124","AFGB",NA
+"125","AFGE",NA
+"126","AFGH",NA
+"127","AMH","REIT - Residential"
+"128","AMH^D",NA
+"129","AMH^E",NA
+"130","AMH^F",NA
+"131","AMH^G",NA
+"132","AMH^H",NA
+"133","AIG","Insurance - Diversified"
+"134","AIG.WS",NA
+"135","AIG^A",NA
+"136","AMID","Oil & Gas Midstream"
+"137","ARL","Real Estate - General"
+"138","ARA","Diagnostics & Research"
+"139","AWR","Utilities - Regulated Water"
+"140","AMT","Telecom Services"
+"141","AVD","Agricultural Inputs"
+"142","AWK","Utilities - Regulated Water"
+"143","COLD","REIT - Industrial"
+"144","APU","Utilities - Regulated Gas"
+"145","AMP","Asset Management"
+"146","ABC","Medical Distribution"
+"147","ANFI","Packaged Foods"
+"148","AMN","Medical Care"
+"149","AMRX","Drug Manufacturers - Specialty & Generic"
+"150","AP","Diversified Industrials"
+"151","APH","Electronic Components"
+"152","AXR","Business Services"
+"153","AME","Diversified Industrials"
+"154","APC","Oil & Gas E&P"
+"155","PLAN","Software - Infrastructure"
+"156","ANDX","Oil & Gas Midstream"
+"157","AU","Gold"
+"158","BUD","Beverages - Brewers"
+"159","AXE","Industrial Distribution"
+"160","NLY","REIT - Diversified"
+"161","NLY^C",NA
+"162","NLY^D",NA
+"163","NLY^F",NA
+"164","NLY^G",NA
+"165","NLY^H",NA
+"166","AM","Oil & Gas Pipelines"
+"167","AR","Oil & Gas E&P"
+"168","ANTM","Health Care Plans"
+"169","ANH","REIT - Diversified"
+"170","ANH^A",NA
+"171","ANH^B",NA
+"172","ANH^C",NA
+"173","AON","Insurance Brokers"
+"174","APA","Oil & Gas E&P"
+"175","AIV","REIT - Residential"
+"176","AIV^A",NA
+"177","APY","Oil & Gas Equipment & Services"
+"178","APHA","Drug Manufacturers - Specialty & Generic"
+"179","ARI","REIT - Diversified"
+"180","ARI^C",NA
+"181","APO","Asset Management"
+"182","APO^A",NA
+"183","APO^B",NA
+"184","AIY",NA
+"185","AFT","Asset Management"
+"186","AIF","Asset Management"
+"187","APLE","REIT - Hotel & Motel"
+"188","AIT","Industrial Distribution"
+"189","ATR","Packaging & Containers"
+"190","APTV","Auto Parts"
+"191","WTR","Utilities - Regulated Water"
+"192","AQ","Semiconductors"
+"193","WAAS","Utilities - Regulated Water"
+"194","ARMK","Restaurants"
+"195","ABR","REIT - Diversified"
+"196","ABR^A",NA
+"197","ABR^B",NA
+"198","ABR^C",NA
+"199","ARC","Business Services"
+"200","MT","Steel"
+"201","ARCH","Coal"
+"202","ADM","Farm Products"
+"203","AROC","Oil & Gas Equipment & Services"
+"204","ARNC","Diversified Industrials"
+"205","ARCO","Restaurants"
+"206","ACA","Infrastructure Operations"
+"207","RCUS","Biotechnology"
+"208","ARD","Packaging & Containers"
+"209","ASC","Shipping & Ports"
+"210","AFC",NA
+"211","ACRE","REIT - Diversified"
+"212","ARDC","Asset Management"
+"213","ARES","Asset Management"
+"214","ARES^A",NA
+"215","AGX","Engineering & Construction"
+"216","ARGD",NA
+"217","ARGO","Insurance - Property & Casualty"
+"218","ANET","Computer Systems"
+"219","AI","Specialty Finance"
+"220","AI^B",NA
+"221","AI^C",NA
+"222","AIC",NA
+"223","AIW",NA
+"224","ARLO","Software - Infrastructure"
+"225","AHH","REIT - Diversified"
+"226","ARR","REIT - Residential"
+"227","ARR^A",NA
+"228","ARR^B",NA
+"229","AFI","Building Materials"
+"230","AWI","Building Materials"
+"231","ARW","Electronics Distribution"
+"232","AJG","Insurance Brokers"
+"233","APAM","Asset Management"
+"234","ASA","Asset Management"
+"235","ABG","Auto & Truck Dealerships"
+"236","ASX","Semiconductors"
+"237","ASGN","Staffing & Outsourcing Services"
+"238","AHT","REIT - Hotel & Motel"
+"239","AHT^D",NA
+"240","AHT^F",NA
+"241","AHT^G",NA
+"242","AHT^H",NA
+"243","AHT^I",NA
+"244","ASH","Chemicals"
+"245","ASPN","Building Materials"
+"246","AHL^C",NA
+"247","AHL^D",NA
+"248","ASB","Banks - Regional - US"
+"249","ASB^C",NA
+"250","ASB^D",NA
+"251","ASB^E",NA
+"252","AC","Capital Markets"
+"253","AIZ","Insurance - Diversified"
+"254","AIZP","Insurance - Diversified"
+"255","AGO","Insurance - Specialty"
+"256","AGO^B",NA
+"257","AGO^E",NA
+"258","AGO^F",NA
+"259","AZN","Drug Manufacturers - Major"
+"260","HOME","Specialty Retail"
+"261","T","Telecom Services"
+"262","TBB",NA
+"263","TBC",NA
+"264","ATTO","Business Services"
+"265","ATH","Insurance - Diversified"
+"266","ATKR","Diversified Industrials"
+"267","AT","Utilities - Independent Power Producers"
+"268","ATO","Utilities - Regulated Gas"
+"269","AUO","Electronic Components"
+"270","ACB","Drug Manufacturers - Specialty & Generic"
+"271","ATHM","Internet Content & Information"
+"272","ALV","Auto Parts"
+"273","AN","Auto & Truck Dealerships"
+"274","AZO","Specialty Retail"
+"275","AVLR","Software - Application"
+"276","AVB","REIT - Residential"
+"277","AGR","Utilities - Regulated Electric"
+"278","AVNS","Medical Instruments & Supplies"
+"279","AVYA","Business Services"
+"280","AVY","Business Equipment"
+"281","AVH","Airlines"
+"282","AVA","Utilities - Diversified"
+"283","AVP","Household & Personal Products"
+"284","AVX","Electronic Components"
+"285","EQH","Insurance - Diversified"
+"286","AXTA","Specialty Chemicals"
+"287","AXS","Insurance - Property & Casualty"
+"288","AXS^D",NA
+"289","AXS^E",NA
+"290","AX","Savings & Cooperative Banks"
+"291","AXO",NA
+"292","AZUL","Airlines"
+"293","AZRE","Utilities - Regulated Electric"
+"294","AZZ","Diversified Industrials"
+"295","BGS","Packaged Foods"
+"296","BW","Electronic Components"
+"297","BGH","Asset Management"
+"298","BMI","Scientific & Technical Instruments"
+"299","BCSF","Asset Management"
+"300","BHGE","Oil & Gas Equipment & Services"
+"301","BBN","Asset Management"
+"302","BLL","Packaging & Containers"
+"303","BANC","Banks - Regional - US"
+"304","BANC^D",NA
+"305","BANC^E",NA
+"306","BBVA","Banks - Global"
+"307","BBD","Banks - Regional - Latin America"
+"308","BBDO","Banks - Regional - Latin America"
+"309","BCH","Banks - Regional - Latin America"
+"310","BLX","Banks - Regional - Latin America"
+"311","BSBR","Banks - Regional - Latin America"
+"312","BSAC","Banks - Regional - Latin America"
+"313","BSMX","Banks - Regional - Latin America"
+"314","SAN","Banks - Global"
+"315","SAN^B",NA
+"316","CIB","Banks - Regional - Latin America"
+"317","BXS","Banks - Regional - US"
+"318","BAC","Banks - Global"
+"319","BAC^A",NA
+"320","BAC^B",NA
+"321","BAC^C",NA
+"322","BAC^E",NA
+"323","BAC^K",NA
+"324","BAC^L",NA
+"325","BAC^W",NA
+"326","BAC^Y",NA
+"327","BML^G",NA
+"328","BML^H",NA
+"329","BML^J",NA
+"330","BML^L",NA
+"331","BOH","Banks - Regional - US"
+"332","BMO","Banks - Global"
+"333","NTB","Banks - Global"
+"334","BK","Asset Management"
+"335","BK^C",NA
+"336","BNS","Banks - Global"
+"337","BKU","Banks - Regional - US"
+"338","BCS","Banks - Global"
+"339","BBDC","Credit Services"
+"340","MCI","Asset Management"
+"341","MPV","Asset Management"
+"342","BNED","Specialty Retail"
+"343","BKS","Specialty Retail"
+"344","B","Diversified Industrials"
+"345","GOLD","Gold"
+"346","BAS","Oil & Gas Equipment & Services"
+"347","BHC","Drug Manufacturers - Specialty & Generic"
+"348","BAX","Medical Instruments & Supplies"
+"349","BTE","Oil & Gas E&P"
+"350","BBT","Banks - Regional - US"
+"351","BBT^D",NA
+"352","BBT^E",NA
+"353","BBT^F",NA
+"354","BBT^G",NA
+"355","BBT^H",NA
+"356","BFR","Banks - Regional - Latin America"
+"357","BBX","Real Estate Services"
+"358","BCE","Telecom Services"
+"359","BZH","Residential Construction"
+"360","BDX","Medical Instruments & Supplies"
+"361","BDXA",NA
+"362","BDC","Electronic Components"
+"363","BDC^B",NA
+"364","BEL","Lodging"
+"365","BMS","Packaging & Containers"
+"366","BHE","Contract Manufacturers"
+"367","BRK.A",NA
+"368","BRK.B",NA
+"369","BHLB","Banks - Regional - US"
+"370","BERY","Packaging & Containers"
+"371","BBY","Specialty Retail"
+"372","BEST","Trucking"
+"373","BHP","Industrial Metals & Minerals"
+"374","BBL","Industrial Metals & Minerals"
+"375","BIG","Discount Stores"
+"376","BH","Restaurants"
+"377","BH.A",NA
+"378","BHVN","Biotechnology"
+"379","BIO","Diagnostics & Research"
+"380","BIO.B",NA
+"381","BITA","Internet Content & Information"
+"382","BJ","Specialty Retail"
+"383","BKH","Utilities - Diversified"
+"384","BKI","Software - Infrastructure"
+"385","BSM","Oil & Gas E&P"
+"386","BB","Communication Equipment"
+"387","BGIO","Asset Management"
+"388","BFZ","Asset Management"
+"389","CII","Asset Management"
+"390","BHK","Asset Management"
+"391","HYT","Asset Management"
+"392","BTZ","Asset Management"
+"393","DSU","Asset Management"
+"394","BGR","Asset Management"
+"395","BDJ","Asset Management"
+"396","EGF","Asset Management"
+"397","FRA","Asset Management"
+"398","BFO","Asset Management"
+"399","BGT","Asset Management"
+"400","BOE","Asset Management"
+"401","BME","Asset Management"
+"402","BAF","Asset Management"
+"403","BKT","Asset Management"
+"404","BGY","Asset Management"
+"405","BKN","Asset Management"
+"406","BTA","Asset Management"
+"407","BZM","Asset Management"
+"408","MHE","Asset Management"
+"409","BIT","Asset Management"
+"410","MUI","Asset Management"
+"411","MNE","Asset Management"
+"412","MUA","Asset Management"
+"413","BKK","Asset Management"
+"414","BBK","Asset Management"
+"415","BBF","Asset Management"
+"416","BYM","Asset Management"
+"417","BFK","Asset Management"
+"418","BLE","Asset Management"
+"419","BTT","Asset Management"
+"420","MEN","Asset Management"
+"421","MUC","Asset Management"
+"422","MUH","Asset Management"
+"423","MHD","Asset Management"
+"424","MFL","Asset Management"
+"425","MUJ","Asset Management"
+"426","MHN","Asset Management"
+"427","MUE","Asset Management"
+"428","MUS","Asset Management"
+"429","MVT","Asset Management"
+"430","MYC","Asset Management"
+"431","MCA","Asset Management"
+"432","MYD","Asset Management"
+"433","MYF","Asset Management"
+"434","MFT","Asset Management"
+"435","MIY","Asset Management"
+"436","MYJ","Asset Management"
+"437","MYN","Asset Management"
+"438","MPA","Asset Management"
+"439","MQT","Asset Management"
+"440","MYI","Asset Management"
+"441","MQY","Asset Management"
+"442","BNY","Asset Management"
+"443","BQH","Asset Management"
+"444","BSE","Asset Management"
+"445","BFY","Asset Management"
+"446","BCX","Asset Management"
+"447","BST","Asset Management"
+"448","BSD","Asset Management"
+"449","BUI","Asset Management"
+"450","BHV","Asset Management"
+"451","BLK","Asset Management"
+"452","BGB","Asset Management"
+"453","BGX","Asset Management"
+"454","BSL","Asset Management"
+"455","BE","Utilities - Independent Power Producers"
+"456","APRN","Specialty Retail"
+"457","BCRH","Insurance - Reinsurance"
+"458","BXG","Resorts & Casinos"
+"459","BXC","Building Materials"
+"460","BA","Aerospace & Defense"
+"461","BCC","Lumber & Wood Production"
+"462","BCEI","Oil & Gas E&P"
+"463","BOOT","Apparel Stores"
+"464","BAH","Business Services"
+"465","BWA","Auto Parts"
+"466","SAM","Beverages - Brewers"
+"467","BXP","REIT - Office"
+"468","BXP^B",NA
+"469","BSX","Medical Devices"
+"470","BOX","Software - Infrastructure"
+"471","BYD","Resorts & Casinos"
+"472","BPMP","Oil & Gas Midstream"
+"473","BP","Oil & Gas Integrated"
+"474","BPT","Oil & Gas Refining & Marketing"
+"475","BRC","Security & Protection Services"
+"476","BHR","REIT - Hotel & Motel"
+"477","BHR^B",NA
+"478","BHR^D",NA
+"479","BDN","REIT - Office"
+"480","BWG","Asset Management"
+"481","LND","Farm Products"
+"482","BAK","Chemicals"
+"483","BRFS","Packaged Foods"
+"484","BPI","Education & Training Services"
+"485","BGG","Diversified Industrials"
+"486","BFAM","Personal Services"
+"487","BEDU","Education & Training Services"
+"488","BSA",NA
+"489","BSIG","Asset Management"
+"490","BV","Business Services"
+"491","EAT","Restaurants"
+"492","BCO","Security & Protection Services"
+"493","BMY","Drug Manufacturers - Major"
+"494","BRS","Oil & Gas Equipment & Services"
+"495","BTI","Tobacco"
+"496","BRX","REIT - Retail"
+"497","BR","Business Services"
+"498","BKD","Long-Term Care Facilities"
+"499","BAM","Asset Management"
+"500","BBU","Conglomerates"
+"501","DTLA^",NA
+"502","INF","Asset Management"
+"503","BIP","Utilities - Diversified"
+"504","RA","Asset Management"
+"505","BEP","Utilities - Independent Power Producers"
+"506","BRO","Insurance Brokers"
+"507","BF.A",NA
+"508","BF.B",NA
+"509","BRT","REIT - Residential"
+"510","BC","Leisure"
+"511","BC^A",NA
+"512","BC^B",NA
+"513","BC^C",NA
+"514","BT","Telecom Services"
+"515","BPL","Oil & Gas Midstream"
+"516","BKE","Apparel Stores"
+"517","BVN","Industrial Metals & Minerals"
+"518","BBW","Specialty Retail"
+"519","BG","Farm Products"
+"520","BURL","Discount Stores"
+"521","BWXT","Aerospace & Defense"
+"522","BY","Banks - Regional - US"
+"523","CJ","Oil & Gas Equipment & Services"
+"524","GYB",NA
+"525","PFH",NA
+"526","CABO","Telecom Services"
+"527","CBT","Specialty Chemicals"
+"528","COG","Oil & Gas E&P"
+"529","CACI","Information Technology Services"
+"530","WHD","Oil & Gas Equipment & Services"
+"531","CADE","Banks - Regional - US"
+"532","CAE","Aerospace & Defense"
+"533","CAI","Rental & Leasing Services"
+"534","CAI^A",NA
+"535","CAI^B",NA
+"536","CAL","Footwear & Accessories"
+"537","CRC","Oil & Gas E&P"
+"538","CWT","Utilities - Regulated Water"
+"539","CALX","Communication Equipment"
+"540","ELY","Leisure"
+"541","CPE","Oil & Gas E&P"
+"542","CPE^A",NA
+"543","CBM","Biotechnology"
+"544","CPT","REIT - Residential"
+"545","CCJ","Industrial Metals & Minerals"
+"546","CPB","Packaged Foods"
+"547","CWH","Recreational Vehicles"
+"548","GOOS","Apparel Manufacturing"
+"549","CM","Banks - Global"
+"550","CNI","Railroads"
+"551","CNQ","Oil & Gas E&P"
+"552","CP","Railroads"
+"553","CANG","Internet Content & Information"
+"554","CNNE","Asset Management"
+"555","CTST","Drug Manufacturers - Specialty & Generic"
+"556","CAJ","Business Equipment"
+"557","CGC","Drug Manufacturers - Specialty & Generic"
+"558","CMD","Medical Instruments & Supplies"
+"559","COF","Credit Services"
+"560","COF^C",NA
+"561","COF^D",NA
+"562","COF^F",NA
+"563","COF^G",NA
+"564","COF^H",NA
+"565","COF^P",NA
+"566","CSU","Long-Term Care Facilities"
+"567","BXMT","REIT - Diversified"
+"568","CIC","Conglomerates"
+"569","CIC.U",NA
+"570","CIC.WS",NA
+"571","CPRI","Apparel Manufacturing"
+"572","CMO","REIT - Residential"
+"573","CMO^E",NA
+"574","CRR","Oil & Gas Equipment & Services"
+"575","CAH","Medical Distribution"
+"576","CRCM","Internet Content & Information"
+"577","CSL","Conglomerates"
+"578","KMX","Auto & Truck Dealerships"
+"579","CCL","Leisure"
+"580","CUK","Leisure"
+"581","CRS","Metal Fabrication"
+"582","CSV","Personal Services"
+"583","CARS","Auto & Truck Dealerships"
+"584","CRI","Apparel Manufacturing"
+"585","CVNA","Specialty Retail"
+"586","CSLT","Software - Application"
+"587","CTLT","Drug Manufacturers - Specialty & Generic"
+"588","CTT           ","REIT - Diversified"
+"589","CAT","Farm & Construction Equipment"
+"590","CATO","Apparel Stores"
+"591","CBZ","Business Services"
+"592","CBL","REIT - Retail"
+"593","CBL^D",NA
+"594","CBL^E",NA
+"595","CBO",NA
+"596","IGR","Asset Management"
+"597","CBRE","Real Estate Services"
+"598","CBS","Media - Diversified"
+"599","CBS.A",NA
+"600","CBX",NA
+"601","FUN","Leisure"
+"602","CDR","REIT - Retail"
+"603","CDR^B",NA
+"604","CDR^C",NA
+"605","CE","Chemicals"
+"606","CLS","Contract Manufacturers"
+"607","CEL","Telecom Services"
+"608","CPAC","Building Materials"
+"609","CX","Building Materials"
+"610","CVE","Oil & Gas Integrated"
+"611","CNC","Health Care Plans"
+"612","CEN","Asset Management"
+"613","CNP","Utilities - Regulated Gas"
+"614","CNP^B",NA
+"615","EBR","Utilities - Regulated Electric"
+"616","EBR.B",NA
+"617","CEPU","Utilities - Regulated Electric"
+"618","CCS","Residential Construction"
+"619","CTL","Telecom Services"
+"620","CDAY","Software - Application"
+"621","CF","Agricultural Inputs"
+"622","GIB","Information Technology Services"
+"623","ECOM          ","Software - Application"
+"624","CHAP","Oil & Gas E&P"
+"625","CHRA","Waste Management"
+"626","CRL","Diagnostics & Research"
+"627","CLDT","REIT - Hotel & Motel"
+"628","CMCM","Software - Application"
+"629","CHGG","Education & Training Services"
+"630","CHE","Medical Care"
+"631","CC","Specialty Chemicals"
+"632","CHMI","REIT - Residential"
+"633","CHMI^A",NA
+"634","CHMI^B",NA
+"635","CHK","Oil & Gas E&P"
+"636","CHK^D",NA
+"637","CHKR","Oil & Gas E&P"
+"638","CHSP","REIT - Hotel & Motel"
+"639","CPK","Utilities - Regulated Gas"
+"640","CVX","Oil & Gas Integrated"
+"641","CHS","Apparel Stores"
+"642","CIM","REIT - Diversified"
+"643","CIM^A",NA
+"644","CIM^B",NA
+"645","CIM^C",NA
+"646","CIM^D",NA
+"647","DL","Education & Training Services"
+"648","CEA","Airlines"
+"649","CHN","Asset Management"
+"650","CGA","Agricultural Inputs"
+"651","LFC","Insurance - Life"
+"652","CHL","Telecom Services"
+"653","BORN","Beverages - Wineries & Distilleries"
+"654","COE","Education & Training Services"
+"655","SNP","Oil & Gas Integrated"
+"656","XRF","Credit Services"
+"657","ZNH","Airlines"
+"658","CHA","Telecom Services"
+"659","CHU","Telecom Services"
+"660","CYD","Diversified Industrials"
+"661","CMG","Restaurants"
+"662","CHH","Lodging"
+"663","CBK","Apparel Stores"
+"664","CB","Insurance - Property & Casualty"
+"665","CHT","Telecom Services"
+"666","CHD","Household & Personal Products"
+"667","CCC","Conglomerates"
+"668","CCC.U",NA
+"669","CCC.WS",NA
+"670","CIEN","Communication Equipment"
+"671","CI","Health Care Plans"
+"672","XEC","Oil & Gas E&P"
+"673","CBB","Telecom Services"
+"674","CBB^B",NA
+"675","CNK","Media - Diversified"
+"676","CINR","Industrial Metals & Minerals"
+"677","CIR","Diversified Industrials"
+"678","CISN","Software - Application"
+"679","CIT","Banks - Regional - US"
+"680","BLW","Asset Management"
+"681","C","Banks - Global"
+"682","C^J",NA
+"683","C^K",NA
+"684","C^N",NA
+"685","C^S",NA
+"686","CFG","Banks - Regional - US"
+"687","CFG^D",NA
+"688","CIA","Insurance - Life"
+"689","CIO","REIT - Office"
+"690","CIO^A",NA
+"691","CVEO","Business Services"
+"692","CLH","Waste Management"
+"693","CCO","Marketing Services"
+"694","EMO","Asset Management"
+"695","CEM","Asset Management"
+"696","CTR","Asset Management"
+"697","CLW","Paper & Paper Products"
+"698","CWEN","Utilities - Regulated Electric"
+"699","CWEN.A",NA
+"700","CLF","Industrial Metals & Minerals"
+"701","CLPR","REIT - Diversified"
+"702","CLX","Household & Personal Products"
+"703","CLD","Coal"
+"704","CLDR","Software - Application"
+"705","CMS","Utilities - Regulated Electric"
+"706","CMS^B",NA
+"707","CMSA",NA
+"708","CMSC",NA
+"709","CMSD",NA
+"710","CNA","Insurance - Property & Casualty"
+"711","CNF","Credit Services"
+"712","CNHI","Farm & Construction Equipment"
+"713","CNO","Insurance - Life"
+"714","CEO","Oil & Gas E&P"
+"715","CNXM","Oil & Gas Midstream"
+"716","CEIX","Coal"
+"717","CNX","Oil & Gas E&P"
+"718","KOF","Beverages - Soft Drinks"
+"719","KO","Beverages - Soft Drinks"
+"720","CCEP","Beverages - Soft Drinks"
+"721","CDE","Gold"
+"722","FOF","Asset Management"
+"723","INB","Asset Management"
+"724","CNS","Asset Management"
+"725","UTF","Asset Management"
+"726","LDP",NA
+"727","MIE","Asset Management"
+"728","RQI","Asset Management"
+"729","RNP","Asset Management"
+"730","PSF","Asset Management"
+"731","RFI","Asset Management"
+"732","CFX","Diversified Industrials"
+"733","CFXA","Diversified Industrials"
+"734","CL","Household & Personal Products"
+"735","CCH","Conglomerates"
+"736","CCH.U",NA
+"737","CCH.WS",NA
+"738","CXE","Asset Management"
+"739","CIF","Asset Management"
+"740","CXH","Asset Management"
+"741","CMU","Asset Management"
+"742","CLNY","REIT - Diversified"
+"743","CLNY^B",NA
+"744","CLNY^E",NA
+"745","CLNY^G",NA
+"746","CLNY^H",NA
+"747","CLNY^I",NA
+"748","CLNY^J",NA
+"749","CLNC","REIT - Office"
+"750","CXP","REIT - Office"
+"751","STK","Asset Management"
+"752","CCZ",NA
+"753","CMA","Banks - Regional - US"
+"754","FIX","Engineering & Construction"
+"755","CMC","Steel"
+"756","CBU","Banks - Regional - US"
+"757","CYH","Medical Care"
+"758","CHCT","REIT - Healthcare Facilities"
+"759","CIG","Utilities - Diversified"
+"760","CIG.C",NA
+"761","CBD","Department Stores"
+"762","SBS","Utilities - Regulated Water"
+"763","ELP","Utilities - Diversified"
+"764","CCU","Beverages - Brewers"
+"765","CODI","Conglomerates"
+"766","CODI^A",NA
+"767","CODI^B",NA
+"768","CMP","Industrial Metals & Minerals"
+"769","CRK","Oil & Gas E&P"
+"770","CAG","Packaged Foods"
+"771","CXO","Oil & Gas E&P"
+"772","CCM","Medical Care"
+"773","CNDT","Business Services"
+"774","COP","Oil & Gas E&P"
+"775","CCR","Coal"
+"776","ED","Utilities - Regulated Electric"
+"777","STZ","Beverages - Wineries & Distilleries"
+"778","STZ.B",NA
+"779","CSTM","Aluminum"
+"780","TCS","Specialty Retail"
+"781","CBPX","Building Materials"
+"782","CLR","Oil & Gas E&P"
+"783","VLRS","Airlines"
+"784","CTRA","Coal"
+"785","CTB","Rubber & Plastics"
+"786","CPS","Auto Parts"
+"787","CTK","Software - Application"
+"788","CPA","Airlines"
+"789","CLB","Oil & Gas Equipment & Services"
+"790","CXW","REIT - Diversified"
+"791","CLGX","Business Services"
+"792","CORR","REIT - Diversified"
+"793","CORR^A",NA
+"794","CPLG","REIT - Hotel & Motel"
+"795","COR","REIT - Office"
+"796","GLW","Electronic Components"
+"797","CAAP","Airports & Air Services"
+"798","GYC",NA
+"799","OFC","REIT - Office"
+"800","CZZ","Utilities - Diversified"
+"801","CMRE","Integrated Shipping & Logistics"
+"802","CMRE^B",NA
+"803","CMRE^C",NA
+"804","CMRE^D",NA
+"805","CMRE^E",NA
+"806","COT","Beverages - Soft Drinks"
+"807","COTY","Household & Personal Products"
+"808","CUZ","REIT - Diversified"
+"809","CVA","Waste Management"
+"810","CVIA","Industrial Metals & Minerals"
+"811","CPF","Banks - Regional - US"
+"812","CPL","Utilities - Regulated Electric"
+"813","CR","Diversified Industrials"
+"814","CRD.A",NA
+"815","CRD.B",NA
+"816","BAP","Banks - Regional - Latin America"
+"817","CS","Banks - Global"
+"818","CPG","Oil & Gas E&P"
+"819","CEQP","Oil & Gas Midstream"
+"820","CRH","Building Materials"
+"821","CRT","Oil & Gas E&P"
+"822","CAPL","Oil & Gas Refining & Marketing"
+"823","CCI","REIT - Diversified"
+"824","CCI^A",NA
+"825","CCK","Packaging & Containers"
+"826","CRY","Medical Devices"
+"827","CSS","Specialty Retail"
+"828","CTS","Electronic Components"
+"829","CUBE","REIT - Industrial"
+"830","CUB","Aerospace & Defense"
+"831","CFR","Banks - Regional - US"
+"832","CFR^A",NA
+"833","CULP","Textile Manufacturing"
+"834","CMI","Diversified Industrials"
+"835","CURO","Credit Services"
+"836","CW","Diversified Industrials"
+"837","SRF","Asset Management"
+"838","SRV","Asset Management"
+"839","SZC","Asset Management"
+"840","CWK","Real Estate Services"
+"841","CUBI","Banks - Regional - US"
+"842","CUBI^C",NA
+"843","CUBI^D",NA
+"844","CUBI^E",NA
+"845","CUBI^F",NA
+"846","CVI","Oil & Gas Refining & Marketing"
+"847","UAN","Agricultural Inputs"
+"848","CVS","Health Care Plans"
+"849","CELP","Oil & Gas Equipment & Services"
+"850","DHI","Residential Construction"
+"851","DAN","Auto Parts"
+"852","DHR","Diagnostics & Research"
+"853","DHR^A",NA
+"854","DAC","Shipping & Ports"
+"855","DQ","Semiconductor Equipment & Materials"
+"856","DRI","Restaurants"
+"857","DAR","Waste Management"
+"858","DVA","Medical Care"
+"859","DCP","Oil & Gas Midstream"
+"860","DCP^B",NA
+"861","DCP^C",NA
+"862","DF","Packaged Foods"
+"863","DECK","Footwear & Accessories"
+"864","DE","Farm & Construction Equipment"
+"865","DEX","Asset Management"
+"866","DDF","Asset Management"
+"867","DKL","Oil & Gas Midstream"
+"868","DK","Oil & Gas Refining & Marketing"
+"869","DELL","Computer Systems"
+"870","DLPH","Auto Parts"
+"871","DAL","Airlines"
+"872","DLX","Business Services"
+"873","DNR","Oil & Gas E&P"
+"874","DESP","Leisure"
+"875","DKT",NA
+"876","DB","Banks - Regional - Europe"
+"877","DXB",NA
+"878","DVN","Oil & Gas E&P"
+"879","DHX","Staffing & Outsourcing Services"
+"880","DHT","Shipping & Ports"
+"881","DEO","Beverages - Wineries & Distilleries"
+"882","DO","Oil & Gas Drilling"
+"883","DSSI$",NA
+"884","DRH","REIT - Hotel & Motel"
+"885","DSX","Shipping & Ports"
+"886","DSX^B",NA
+"887","DKS","Specialty Retail"
+"888","DBD","Software - Application"
+"889","DLR","REIT - Office"
+"890","DLR^C",NA
+"891","DLR^G",NA
+"892","DLR^H.CL",NA
+"893","DLR^I",NA
+"894","DLR^J",NA
+"895","DLR^K",NA
+"896","DDS","Department Stores"
+"897","DDT",NA
+"898","DIN","Restaurants"
+"899","DPLO","Drug Manufacturers - Specialty & Generic"
+"900","DFS","Credit Services"
+"901","DNI","Asset Management"
+"902","DLB","Media - Diversified"
+"903","DG","Discount Stores"
+"904","D","Utilities - Diversified"
+"905","DCUD",NA
+"906","DRUA",NA
+"907","DPZ","Restaurants"
+"908","UFS","Paper & Paper Products"
+"909","DCI","Diversified Industrials"
+"910","DFIN","Capital Markets"
+"911","LPG","Shipping & Ports"
+"912","DSL","Asset Management"
+"913","DBL","Asset Management"
+"914","PLOW","Auto Parts"
+"915","DEI","REIT - Office"
+"916","DOV","Diversified Industrials"
+"917","DDE","Gambling"
+"918","DVD","Leisure"
+"919","DOW$",NA
+"920","DWDP","Chemicals"
+"921","DWDP$",NA
+"922","RDY","Drug Manufacturers - Specialty & Generic"
+"923","DRD","Gold"
+"924","DCF",NA
+"925","DHF","Asset Management"
+"926","DMB","Asset Management"
+"927","DSM","Asset Management"
+"928","LEO","Asset Management"
+"929","DRQ","Oil & Gas Equipment & Services"
+"930","DS","Leisure"
+"931","DS^B",NA
+"932","DS^C",NA
+"933","DS^D",NA
+"934","DSW","Apparel Stores"
+"935","DTE","Utilities - Regulated Electric"
+"936","DTJ",NA
+"937","DTQ",NA
+"938","DTV",NA
+"939","DTW",NA
+"940","DTY",NA
+"941","DCO","Aerospace & Defense"
+"942","DPG","Asset Management"
+"943","DSE","Asset Management"
+"944","DNP","Asset Management"
+"945","DTF","Asset Management"
+"946","DUC","Asset Management"
+"947","DUK","Utilities - Regulated Electric"
+"948","DUKB",NA
+"949","DUKH",NA
+"950","DRE","REIT - Industrial"
+"951","DXC","Information Technology Services"
+"952","DY","Engineering & Construction"
+"953","DLNG","Shipping & Ports"
+"954","DLNG^A",NA
+"955","DLNG^B",NA
+"956","DX","REIT - Residential"
+"957","DX^A",NA
+"958","DX^B",NA
+"959","DD^A",NA
+"960","DD^B",NA
+"961","ELF","Household & Personal Products"
+"962","EGIF","Asset Management"
+"963","EXP","Building Materials"
+"964","ECC           ","Asset Management"
+"965","ECCA","Asset Management"
+"966","ECCB","Asset Management"
+"967","ECCX",NA
+"968","ECCY",NA
+"969","ESTE","Oil & Gas E&P"
+"970","DEA","REIT - Office"
+"971","EGP","REIT - Industrial"
+"972","EMN","Chemicals"
+"973","KODK","Consumer Electronics"
+"974","ETN","Diversified Industrials"
+"975","ETV","Asset Management"
+"976","ETW","Asset Management"
+"977","EV","Asset Management"
+"978","EOI","Asset Management"
+"979","EOS","Asset Management"
+"980","EFT","Asset Management"
+"981","EFL",NA
+"982","EFF","Asset Management"
+"983","EHT","Asset Management"
+"984","ETX           ","Asset Management"
+"985","EOT","Asset Management"
+"986","EVN","Asset Management"
+"987","ETJ","Asset Management"
+"988","EFR","Asset Management"
+"989","EVF","Asset Management"
+"990","EVG","Asset Management"
+"991","EVT","Asset Management"
+"992","ETO","Asset Management"
+"993","ETG","Asset Management"
+"994","ETB","Asset Management"
+"995","EXD","Asset Management"
+"996","ETY","Asset Management"
+"997","EXG","Asset Management"
+"998","ECT","Oil & Gas Integrated"
+"999","ECL","Specialty Chemicals"
+"1000","EC","Oil & Gas Integrated"
+"1001","EIX","Utilities - Regulated Electric"
+"1002","EW","Medical Devices"
+"1003","EHIC","Rental &amp; Leasing Services"
+"1004","EP^C",NA
+"1005","EE","Utilities - Regulated Electric"
+"1006","ELAN","Drug Manufacturers - Specialty &amp; Generic"
+"1007","ESTC","Software - Application"
+"1008","EGO","Gold"
+"1009","ESI","Specialty Chemicals"
+"1010","ELVT","Credit Services"
+"1011","LLY","Drug Manufacturers - Major"
+"1012","ELLI","Software - Application"
+"1013","EFC","Specialty Finance"
+"1014","EARN","REIT - Residential"
+"1015","AKO.A",NA
+"1016","AKO.B",NA
+"1017","ERJ","Aerospace &amp; Defense"
+"1018","EME","Engineering &amp; Construction"
+"1019","EEX","Business Services"
+"1020","EMES","Industrial Metals &amp; Minerals"
+"1021","EBS","Biotechnology"
+"1022","EMR","Diversified Industrials"
+"1023","ESRT","REIT - Diversified"
+"1024","EIG","Insurance - Specialty"
+"1025","EDN","Utilities - Regulated Electric"
+"1026","ENBL","Oil &amp; Gas Midstream"
+"1027","ENB","Oil &amp; Gas Midstream"
+"1028","ENBA",NA
+"1029","ECA","Oil &amp; Gas E&amp;P"
+"1030","EHC","Medical Care"
+"1031","DAVA","Software - Infrastructure"
+"1032","EXK","Silver"
+"1033","ENIA","Utilities - Regulated Electric"
+"1034","ENIC","Utilities - Regulated Electric"
+"1035","ENR","Electronic Components"
+"1036","ENR^A",NA
+"1037","EPC","Household &amp; Personal Products"
+"1038","ET","Oil &amp; Gas Midstream"
+"1039","ETP^C",NA
+"1040","ETP^D",NA
+"1041","ERF","Oil &amp; Gas E&amp;P"
+"1042","ENS","Electronic Components"
+"1043","E","Oil &amp; Gas Integrated"
+"1044","ENLC","Oil &amp; Gas Midstream"
+"1045","EBF","Business Equipment"
+"1046","ENVA","Credit Services"
+"1047","NPO","Diversified Industrials"
+"1048","ESV","Oil &amp; Gas Drilling"
+"1049","ETM","Broadcasting - Radio"
+"1050","EAB",NA
+"1051","EAE",NA
+"1052","EAI",NA
+"1053","ETR","Utilities - Diversified"
+"1054","ELC",NA
+"1055","ELJ",NA
+"1056","ELU",NA
+"1057","EMP",NA
+"1058","ENJ",NA
+"1059","ENO",NA
+"1060","EZT",NA
+"1061","EPD","Oil &amp; Gas Midstream"
+"1062","EVC","Broadcasting - TV"
+"1063","ENV","Capital Markets"
+"1064","EVA","Lumber &amp; Wood Production"
+"1065","ENZ","Diagnostics &amp; Research"
+"1066","EOG","Oil &amp; Gas E&amp;P"
+"1067","EPE","Oil &amp; Gas E&amp;P"
+"1068","EPAM","Information Technology Services"
+"1069","EPR","REIT - Retail"
+"1070","EPR^C",NA
+"1071","EPR^E",NA
+"1072","EPR^G",NA
+"1073","EQM","Oil &amp; Gas Midstream"
+"1074","EQT","Oil &amp; Gas E&amp;P"
+"1075","EFX","Business Services"
+"1076","EQNR","Oil &amp; Gas Integrated"
+"1077","ETRN","Oil &amp; Gas Midstream"
+"1078","EQC","REIT - Office"
+"1079","EQC^D",NA
+"1080","ELS","REIT - Residential"
+"1081","EQR","REIT - Residential"
+"1082","EQS","Asset Management"
+"1083","ERA","Airports &amp; Air Services"
+"1084","EROS","Media - Diversified"
+"1085","ESE","Scientific &amp; Technical Instruments"
+"1086","ESNT","Specialty Finance"
+"1087","EPRT","REIT - Diversified"
+"1088","ESS","REIT - Residential"
+"1089","EL","Household &amp; Personal Products"
+"1090","ETH","Home Furnishings &amp; Fixtures"
+"1091","EURN","Integrated Shipping &amp; Logistics"
+"1092","EEA","Asset Management"
+"1093","EB","Software - Application"
+"1094","EVR","Capital Markets"
+"1095","RE","Insurance - Reinsurance"
+"1096","EVRG","Utilities - Regulated Electric"
+"1097","EVRI","Gambling"
+"1098","ES","Utilities - Regulated Electric"
+"1099","EVTC","Software - Infrastructure"
+"1100","EVH","Health Information Services"
+"1101","AQUA","Pollution &amp; Treatment Controls"
+"1102","XAN","REIT - Diversified"
+"1103","XAN^C",NA
+"1104","EXC","Utilities - Diversified"
+"1105","EXPR","Apparel Stores"
+"1106","EXTN","Oil &amp; Gas Equipment &amp; Services"
+"1107","EXR","REIT - Industrial"
+"1108","XOM","Oil &amp; Gas Integrated"
+"1109","FNB","Banks - Regional - US"
+"1110","FNB^E",NA
+"1111","FN","Consumer Electronics"
+"1112","FDS","Capital Markets"
+"1113","FICO","Software - Infrastructure"
+"1114","SFUN","Internet Content &amp; Information"
+"1115","FPAC","Conglomerates"
+"1116","FPAC.U",NA
+"1117","FPAC.WS",NA
+"1118","FTCH",NA
+"1119","FPI","REIT - Diversified"
+"1120","FPI^B",NA
+"1121","FBK","Banks - Regional - US"
+"1122","FFG","Insurance - Life"
+"1123","AGM","Credit Services"
+"1124","AGM.A",NA
+"1125","AGM^A",NA
+"1126","AGM^B",NA
+"1127","AGM^C",NA
+"1128","FRT","REIT - Retail"
+"1129","FRT^C",NA
+"1130","FSS","Pollution &amp; Treatment Controls"
+"1131","FII","Asset Management"
+"1132","FMN","Asset Management"
+"1133","FDX","Integrated Shipping &amp; Logistics"
+"1134","RACE","Auto Manufacturers"
+"1135","FGP","Oil &amp; Gas Refining &amp; Marketing"
+"1136","FOE","Specialty Chemicals"
+"1137","FG","Insurance - Life"
+"1138","FG.WS",NA
+"1139","FCAU","Auto Manufacturers"
+"1140","FNF","Insurance - Specialty"
+"1141","FIS","Business Services"
+"1142","FMO","Asset Management"
+"1143","FAF","Insurance - Specialty"
+"1144","FBP","Banks - Regional - US"
+"1145","FCF","Banks - Regional - US"
+"1146","FDC","Business Services"
+"1147","FHN","Banks - Regional - US"
+"1148","FHN^A",NA
+"1149","FR","REIT - Industrial"
+"1150","AG","Silver"
+"1151","FRC","Banks - Regional - US"
+"1152","FRC^D",NA
+"1153","FRC^F",NA
+"1154","FRC^G",NA
+"1155","FRC^H",NA
+"1156","FRC^I",NA
+"1157","FFA","Asset Management"
+"1158","FMY","Asset Management"
+"1159","FDEU","Asset Management"
+"1160","FIF","Asset Management"
+"1161","FSD","Asset Management"
+"1162","FPF","Asset Management"
+"1163","FEI           ","Asset Management"
+"1164","FPL","Asset Management"
+"1165","FIV","Asset Management"
+"1166","FCT","Asset Management"
+"1167","FGB","Asset Management"
+"1168","FEO","Asset Management"
+"1169","FAM","Asset Management"
+"1170","FE","Utilities - Diversified"
+"1171","FIT","Scientific &amp; Technical Instruments"
+"1172","FPH","Real Estate - General"
+"1173","FBC","Savings &amp; Cooperative Banks"
+"1174","DFP","Asset Management"
+"1175","PFD","Asset Management"
+"1176","PFO","Asset Management"
+"1177","FFC","Asset Management"
+"1178","FLC","Asset Management"
+"1179","FLT","Business Services"
+"1180","FND","Home Improvement Stores"
+"1181","FTK","Oil &amp; Gas Equipment &amp; Services"
+"1182","FLO","Packaged Foods"
+"1183","FLS","Diversified Industrials"
+"1184","FLR","Engineering &amp; Construction"
+"1185","FLY","Rental &amp; Leasing Services"
+"1186","FMC","Agricultural Inputs"
+"1187","FMX","Beverages - Brewers"
+"1188","FL","Footwear &amp; Accessories"
+"1189","F","Auto Manufacturers"
+"1190","FELP","Coal"
+"1191","FOR","Real Estate - General"
+"1192","FTS","Utilities - Regulated Electric"
+"1193","FTV","Scientific &amp; Technical Instruments"
+"1194","FTV^A",NA
+"1195","FTAI","Rental &amp; Leasing Services"
+"1196","FSM","Silver"
+"1197","FBHS","Home Furnishings &amp; Fixtures"
+"1198","FET","Oil &amp; Gas Equipment &amp; Services"
+"1199","FBM","Industrial Distribution"
+"1200","FCPT","REIT - Hotel &amp; Motel"
+"1201","FEDU","Education &amp; Training Services"
+"1202","FNV","Gold"
+"1203","FC","Education &amp; Training Services"
+"1204","FSB","Banks - Regional - US"
+"1205","BEN","Asset Management"
+"1206","FT","Asset Management"
+"1207","FI","Oil &amp; Gas Equipment &amp; Services"
+"1208","FCX","Copper"
+"1209","FMS","Medical Care"
+"1210","FDP","Farm Products"
+"1211","RESI","REIT - Residential"
+"1212","FRO","Shipping &amp; Ports"
+"1213","FSK","Asset Management"
+"1214","FCN","Business Services"
+"1215","FTSI","Oil &amp; Gas Equipment &amp; Services"
+"1216","FF","Chemicals"
+"1217","GCV","Asset Management"
+"1218","GCV^B",NA
+"1219","GDV","Asset Management"
+"1220","GDV^A",NA
+"1221","GDV^D",NA
+"1222","GDV^G",NA
+"1223","GAB","Asset Management"
+"1224","GAB^D",NA
+"1225","GAB^G",NA
+"1226","GAB^H",NA
+"1227","GAB^J",NA
+"1228","GGZ","Asset Management"
+"1229","GGZ^A",NA
+"1230","GGT","Asset Management"
+"1231","GGT^B",NA
+"1232","GGT^E",NA
+"1233","GUT","Asset Management"
+"1234","GUT^A",NA
+"1235","GUT^C",NA
+"1236","GCAP","Capital Markets"
+"1237","GBL","Asset Management"
+"1238","GNT","Asset Management"
+"1239","GNT^A",NA
+"1240","GME","Specialty Retail"
+"1241","GPS","Apparel Stores"
+"1242","GDI","Scientific &amp; Technical Instruments"
+"1243","GTX","Auto Parts"
+"1244","IT","Information Technology Services"
+"1245","GLOG","Shipping &amp; Ports"
+"1246","GLOG^A",NA
+"1247","GLOP","Oil &amp; Gas Midstream"
+"1248","GLOP^A",NA
+"1249","GLOP^B",NA
+"1250","GLOP^C",NA
+"1251","GTES","Diversified Industrials"
+"1252","GATX","Rental &amp; Leasing Services"
+"1253","GMTA",NA
+"1254","GCP","Specialty Chemicals"
+"1255","GNK","Shipping &amp; Ports"
+"1256","GNRC","Diversified Industrials"
+"1257","GAM","Asset Management"
+"1258","GAM^B",NA
+"1259","GD","Aerospace &amp; Defense"
+"1260","GE","Diversified Industrials"
+"1261","GIS","Packaged Foods"
+"1262","GM","Auto Manufacturers"
+"1263","GM.WS.B",NA
+"1264","GCO","Apparel Stores"
+"1265","GWR","Railroads"
+"1266","GEL","Oil &amp; Gas Midstream"
+"1267","GEN           ","Long-Term Care Facilities"
+"1268","GNE","Oil &amp; Gas E&amp;P"
+"1269","GNE^A",NA
+"1270","G","Business Services"
+"1271","GPC","Specialty Retail"
+"1272","GNW","Insurance - Diversified"
+"1273","GEO","REIT - Healthcare Facilities"
+"1274","GPRK","Oil &amp; Gas E&amp;P"
+"1275","GPJA",NA
+"1276","GGB","Steel"
+"1277","GTY","REIT - Retail"
+"1278","GIG","Conglomerates"
+"1279","GIG.U",NA
+"1280","GIG.WS",NA
+"1281","GIG~",NA
+"1282","GIL","Apparel Manufacturing"
+"1283","GLT","Paper &amp; Paper Products"
+"1284","GKOS","Medical Instruments &amp; Supplies"
+"1285","GSK","Drug Manufacturers - Major"
+"1286","BRSS","Metal Fabrication"
+"1287","CO","Biotechnology"
+"1288","GMRE",NA
+"1289","GMRE^A",NA
+"1290","GNL","REIT - Diversified"
+"1291","GNL^A",NA
+"1292","GLP","Oil &amp; Gas Midstream"
+"1293","GLP^A",NA
+"1294","GPN","Business Services"
+"1295","GSL","Shipping &amp; Ports"
+"1296","GSL^B",NA
+"1297","GLOB","Information Technology Services"
+"1298","GMED","Medical Devices"
+"1299","GMS","Building Materials"
+"1300","GNC","Pharmaceutical Retailers"
+"1301","GDDY","Internet Content &amp; Information"
+"1302","GOL","Airlines"
+"1303","GFI","Gold"
+"1304","GG","Gold"
+"1305","GSBD","Credit Services"
+"1306","GS","Capital Markets"
+"1307","GS^A",NA
+"1308","GS^B",NA
+"1309","GS^C",NA
+"1310","GS^D",NA
+"1311","GS^J",NA
+"1312","GS^K",NA
+"1313","GS^N",NA
+"1314","GER","Asset Management"
+"1315","GMZ","Asset Management"
+"1316","GRC","Diversified Industrials"
+"1317","GPX","Education &amp; Training Services"
+"1318","GGG","Diversified Industrials"
+"1319","GRAF","Conglomerates"
+"1320","GRAF.U",NA
+"1321","GRAF.WS",NA
+"1322","EAF","Diversified Industrials"
+"1323","GHM","Metal Fabrication"
+"1324","GHC","Education &amp; Training Services"
+"1325","GRAM","Engineering &amp; Construction"
+"1326","GVA","Engineering &amp; Construction"
+"1327","GPMT","REIT - Residential"
+"1328","GRP.U",NA
+"1329","GPK","Packaging &amp; Containers"
+"1330","GTN","Broadcasting - TV"
+"1331","GTN.A",NA
+"1332","AJX","REIT - Diversified"
+"1333","AJXA",NA
+"1334","GWB","Banks - Regional - US"
+"1335","GDOT","Credit Services"
+"1336","GBX","Railroads"
+"1337","GHL","Capital Markets"
+"1338","GHG","Lodging"
+"1339","GEF","Packaging &amp; Containers"
+"1340","GEF.B",NA
+"1341","GFF","Building Materials"
+"1342","GPI","Auto &amp; Truck Dealerships"
+"1343","GRUB","Internet Content &amp; Information"
+"1344","PAC","Airports &amp; Air Services"
+"1345","ASR","Airports &amp; Air Services"
+"1346","AVAL","Banks - Regional - Latin America"
+"1347","SUPV","Banks - Regional - Latin America"
+"1348","TV","Broadcasting - TV"
+"1349","GSAH","Conglomerates"
+"1350","GSAH.U",NA
+"1351","GSAH.WS",NA
+"1352","GTT","Telecom Services"
+"1353","GSH","Railroads"
+"1354","GES","Apparel Stores"
+"1355","GGM","Asset Management"
+"1356","GPM","Asset Management"
+"1357","GOF","Asset Management"
+"1358","GBAB","Asset Management"
+"1359","GWRE","Software - Infrastructure"
+"1360","HRB","Personal Services"
+"1361","FUL","Specialty Chemicals"
+"1362","HAE","Medical Instruments &amp; Supplies"
+"1363","HK","Oil &amp; Gas E&amp;P"
+"1364","HK.WS",NA
+"1365","HAL","Oil &amp; Gas Equipment &amp; Services"
+"1366","HBB","Consumer Electronics"
+"1367","HBI","Apparel Manufacturing"
+"1368","HNGR","Medical Care"
+"1369","HASI","REIT - Diversified"
+"1370","HOG","Recreational Vehicles"
+"1371","HMY","Gold"
+"1372","HRS","Communication Equipment"
+"1373","HSC","Industrial Metals &amp; Minerals"
+"1374","HHS","Marketing Services"
+"1375","HGH",NA
+"1376","HIG","Insurance - Diversified"
+"1377","HIG.WS",NA
+"1378","HIG^G",NA
+"1379","HVT","Home Improvement Stores"
+"1380","HVT.A",NA
+"1381","HE","Utilities - Regulated Electric"
+"1382","HE^U",NA
+"1383","HCHC","Telecom Services"
+"1384","HCA","Medical Care"
+"1385","HCI","Insurance - Property &amp; Casualty"
+"1386","HCP","REIT - Healthcare Facilities"
+"1387","HDB","Banks - Regional - Asia"
+"1388","HR","REIT - Healthcare Facilities"
+"1389","HTA","REIT - Healthcare Facilities"
+"1390","HL","Gold"
+"1391","HL^B",NA
+"1392","HEI","Aerospace &amp; Defense"
+"1393","HEI.A",NA
+"1394","HLX","Oil &amp; Gas Equipment &amp; Services"
+"1395","HP","Oil &amp; Gas Drilling"
+"1396","HLF","Household &amp; Personal Products"
+"1397","HRI","Rental &amp; Leasing Services"
+"1398","HCXY",NA
+"1399","HCXZ",NA
+"1400","HTGC","Specialty Finance"
+"1401","HRTG","Insurance - Property &amp; Casualty"
+"1402","HT","REIT - Hotel &amp; Motel"
+"1403","HT^C",NA
+"1404","HT^D",NA
+"1405","HT^E",NA
+"1406","HSY","Confectioners"
+"1407","HTZ","Rental &amp; Leasing Services"
+"1408","HES","Oil &amp; Gas E&amp;P"
+"1409","HESM","Oil &amp; Gas Midstream"
+"1410","HPE","Communication Equipment"
+"1411","HXL","Aerospace &amp; Defense"
+"1412","HF","Real Estate Services"
+"1413","HCLP","Industrial Metals &amp; Minerals"
+"1414","PCF","Asset Management"
+"1415","HFRO","Asset Management"
+"1416","HGLB",NA
+"1417","HPR","Oil &amp; Gas E&amp;P"
+"1418","HIW","REIT - Office"
+"1419","HIL","Business Services"
+"1420","HI","Diversified Industrials"
+"1421","HRC","Medical Instruments &amp; Supplies"
+"1422","HTH","Banks - Regional - US"
+"1423","HGV","Resorts &amp; Casinos"
+"1424","HLT","Lodging"
+"1425","HNI","Business Equipment"
+"1426","HMLP","Shipping &amp; Ports"
+"1427","HMLP^A",NA
+"1428","HEP","Oil &amp; Gas Midstream"
+"1429","HFC","Oil &amp; Gas Refining &amp; Marketing"
+"1430","HD","Home Improvement Stores"
+"1431","HMC","Auto Manufacturers"
+"1432","HON","Diversified Industrials"
+"1433","HMN","Insurance - Diversified"
+"1434","HZN","Auto Parts"
+"1435","HTFA",NA
+"1436","HRL","Packaged Foods"
+"1437","HOS","Oil &amp; Gas Equipment &amp; Services"
+"1438","HST","REIT - Hotel &amp; Motel"
+"1439","HLI","Capital Markets"
+"1440","HOV","Residential Construction"
+"1441","HHC","Real Estate - General"
+"1442","HPQ","Computer Systems"
+"1443","HSBC","Banks - Global"
+"1444","HSBC^A",NA
+"1445","HMI","Scientific &amp; Technical Instruments"
+"1446","HNP","Utilities - Independent Power Producers"
+"1447","HUBB","Electronic Components"
+"1448","HUBS","Software - Application"
+"1449","HBM","Copper"
+"1450","HUD","Specialty Retail"
+"1451","HPP","REIT - Office"
+"1452","HUM","Health Care Plans"
+"1453","HCFT","REIT - Residential"
+"1454","HII","Aerospace &amp; Defense"
+"1455","HUN","Chemicals"
+"1456","HUYA","Media - Diversified"
+"1457","H","Lodging"
+"1458","HY","Truck Manufacturing"
+"1459","IAG","Gold"
+"1460","IBN","Banks - Regional - Asia"
+"1461","IDA","Utilities - Regulated Electric"
+"1462","IEX","Diversified Industrials"
+"1463","IDT","Telecom Services"
+"1464","ITW","Diversified Industrials"
+"1465","IMAX","Media - Diversified"
+"1466","ICD","Oil &amp; Gas Drilling"
+"1467","IHC","Insurance - Life"
+"1468","IRT","REIT - Residential"
+"1469","IFN","Asset Management"
+"1470","IBA","Farm Products"
+"1471","INFY","Information Technology Services"
+"1472","HIFR","REIT - Diversified"
+"1473","ING","Banks - Global"
+"1474","ISF",NA
+"1475","ISG",NA
+"1476","IR","Diversified Industrials"
+"1477","NGVT","Specialty Chemicals"
+"1478","INGR","Packaged Foods"
+"1479","IIPR","REIT - Industrial"
+"1480","IIPR^A",NA
+"1481","IPHI","Semiconductors"
+"1482","INSI","Asset Management"
+"1483","NSP","Staffing &amp; Outsourcing Services"
+"1484","INSP","Medical Devices"
+"1485","IBP","Building Materials"
+"1486","INST","Software - Application"
+"1487","ITGR","Medical Devices"
+"1488","I","Telecom Services"
+"1489","ICE","Financial Exchanges"
+"1490","IHG","Lodging"
+"1491","IBM","Information Technology Services"
+"1492","IFF","Specialty Chemicals"
+"1493","IFFT",NA
+"1494","IGT","Gambling"
+"1495","IP","Packaging &amp; Containers"
+"1496","INSW","Shipping &amp; Ports"
+"1497","INSW^A",NA
+"1498","IPG","Advertising Agencies"
+"1499","INXN","Internet Content &amp; Information"
+"1500","IPI","Agricultural Inputs"
+"1501","IVC","Medical Devices"
+"1502","VBF","Asset Management"
+"1503","VCV","Asset Management"
+"1504","VTA","Asset Management"
+"1505","IHIT","Asset Management"
+"1506","IHTA",NA
+"1507","VLT","Asset Management"
+"1508","IVR","REIT - Diversified"
+"1509","IVR^B",NA
+"1510","IVR^C",NA
+"1511","IVR^A",NA
+"1512","OIA","Asset Management"
+"1513","VMO","Asset Management"
+"1514","VKQ","Asset Management"
+"1515","VPV","Asset Management"
+"1516","IVZ","Asset Management"
+"1517","IQI","Asset Management"
+"1518","VVR","Asset Management"
+"1519","VTN","Asset Management"
+"1520","VGM","Asset Management"
+"1521","IIM","Asset Management"
+"1522","IRET","REIT - Residential"
+"1523","IRET^C",NA
+"1524","NVTA","Diagnostics &amp; Research"
+"1525","INVH","REIT - Residential"
+"1526","IO","Oil &amp; Gas Equipment &amp; Services"
+"1527","IQV","Diagnostics &amp; Research"
+"1528","IRM","Business Services"
+"1529","IRS","Real Estate - General"
+"1530","ICL","Agricultural Inputs"
+"1531","STAR          ","REIT - Diversified"
+"1532","STAR^D",NA
+"1533","STAR^G",NA
+"1534","STAR^I",NA
+"1535","ITCB","Banks - Regional - Latin America"
+"1536","ITUB","Banks - Regional - Latin America"
+"1537","ITT","Diversified Industrials"
+"1538","IVH","Asset Management"
+"1539","JPM","Banks - Global"
+"1540","JPM^A",NA
+"1541","JPM^C",NA
+"1542","JPM^D",NA
+"1543","JPM^E",NA
+"1544","JPM^F",NA
+"1545","JPM^G",NA
+"1546","JPM^H",NA
+"1547","JAX","Restaurants"
+"1548","JILL","Apparel Stores"
+"1549","JCP","Department Stores"
+"1550","SJM","Packaged Foods"
+"1551","JBL","Contract Manufacturers"
+"1552","JEC","Engineering &amp; Construction"
+"1553","JAG","Oil &amp; Gas E&amp;P"
+"1554","JHX","Building Materials"
+"1555","JHG","Asset Management"
+"1556","JOF","Asset Management"
+"1557","JBGS","REIT - Diversified"
+"1558","JEF","Asset Management"
+"1559","JELD","Building Materials"
+"1560","JCAP","REIT - Industrial"
+"1561","JCAP^B",NA
+"1562","JT","Internet Content &amp; Information"
+"1563","JKS","Solar"
+"1564","JMP","Capital Markets"
+"1565","JMPB",NA
+"1566","JMPD",NA
+"1567","JBT","Diversified Industrials"
+"1568","BTO","Asset Management"
+"1569","HEQ","Asset Management"
+"1570","JHS","Asset Management"
+"1571","JHI","Asset Management"
+"1572","HPF","Asset Management"
+"1573","HPI","Asset Management"
+"1574","HPS","Asset Management"
+"1575","PDT","Asset Management"
+"1576","HTD","Asset Management"
+"1577","HTY","Asset Management"
+"1578","JW.A",NA
+"1579","JW.B",NA
+"1580","JNJ","Drug Manufacturers - Major"
+"1581","JCI","Engineering &amp; Construction"
+"1582","JLL","Real Estate Services"
+"1583","JMEI","Specialty Retail"
+"1584","JNPR","Communication Equipment"
+"1585","JP","Asset Management"
+"1586","JE","Utilities - Diversified"
+"1587","JE^A",NA
+"1588","LRN","Education &amp; Training Services"
+"1589","KAI","Diversified Industrials"
+"1590","KDMN","Biotechnology"
+"1591","KAMN","Aerospace &amp; Defense"
+"1592","KSU","Railroads"
+"1593","KSU^",NA
+"1594","KAR","Specialty Retail"
+"1595","KMF","Asset Management"
+"1596","KYN","Asset Management"
+"1597","KYN^F",NA
+"1598","KB","Banks - Regional - Asia"
+"1599","KBH","Residential Construction"
+"1600","KBR","Engineering &amp; Construction"
+"1601","FRAC","Oil &amp; Gas Equipment &amp; Services"
+"1602","K","Packaged Foods"
+"1603","KEM","Electronic Components"
+"1604","KMPA",NA
+"1605","KMPR","Insurance - Diversified"
+"1606","KMT","Tools &amp; Accessories"
+"1607","KW","Real Estate Services"
+"1608","KEN","Utilities - Regulated Electric"
+"1609","KDP","Beverages - Soft Drinks"
+"1610","KEG","Oil &amp; Gas Equipment &amp; Services"
+"1611","KEY","Banks - Regional - US"
+"1612","KEY^I",NA
+"1613","KEY^J",NA
+"1614","KEYS","Scientific &amp; Technical Instruments"
+"1615","KRC","REIT - Office"
+"1616","KRP","Oil &amp; Gas E&amp;P"
+"1617","KMB","Household &amp; Personal Products"
+"1618","KIM","REIT - Retail"
+"1619","KIM^I",NA
+"1620","KIM^J",NA
+"1621","KIM^K",NA
+"1622","KIM^L",NA
+"1623","KIM^M",NA
+"1624","KMI","Oil &amp; Gas Midstream"
+"1625","KFS","Insurance - Property &amp; Casualty"
+"1626","KGC","Gold"
+"1627","KEX","Shipping &amp; Ports"
+"1628","KL","Gold"
+"1629","KRG","REIT - Retail"
+"1630","KKR","Asset Management"
+"1631","KKR^A",NA
+"1632","KKR^B",NA
+"1633","KIO","Asset Management"
+"1634","KREF","REIT - Retail"
+"1635","KNX","Trucking"
+"1636","KNL","Business Equipment"
+"1637","KNOP","Shipping &amp; Ports"
+"1638","KN","Communication Equipment"
+"1639","KSS","Department Stores"
+"1640","PHG","Diagnostics &amp; Research"
+"1641","KOP","Specialty Chemicals"
+"1642","KEP","Utilities - Regulated Electric"
+"1643","KF","Asset Management"
+"1644","KFY","Staffing &amp; Outsourcing Services"
+"1645","KOS","Oil &amp; Gas E&amp;P"
+"1646","KRA","Specialty Chemicals"
+"1647","KR","Grocery Stores"
+"1648","KRO","Specialty Chemicals"
+"1649","KT","Telecom Services"
+"1650","LB","Apparel Stores"
+"1651","SCX","Tools &amp; Accessories"
+"1652","LLL","Aerospace &amp; Defense"
+"1653","LH","Diagnostics &amp; Research"
+"1654","LADR","REIT - Diversified"
+"1655","LAIX","Education &amp; Training Services"
+"1656","LW","Packaged Foods"
+"1657","LCI","Drug Manufacturers - Specialty &amp; Generic"
+"1658","LPI","Oil &amp; Gas E&amp;P"
+"1659","LVS","Resorts &amp; Casinos"
+"1660","LTM","Airlines"
+"1661","LGI","Asset Management"
+"1662","LAZ","Capital Markets"
+"1663","LOR","Asset Management"
+"1664","LZB","Home Furnishings &amp; Fixtures"
+"1665","LCII","Recreational Vehicles"
+"1666","LEAF","Internet Content &amp; Information"
+"1667","LEA","Auto Parts"
+"1668","LEE","Publishing"
+"1669","LGC","Conglomerates"
+"1670","LGC.U",NA
+"1671","LGC.WS",NA
+"1672","LM","Asset Management"
+"1673","LMHA",NA
+"1674","LMHB",NA
+"1675","LEG","Home Furnishings &amp; Fixtures"
+"1676","JBK",NA
+"1677","KTH",NA
+"1678","KTN",NA
+"1679","KTP",NA
+"1680","LDOS","Information Technology Services"
+"1681","LEJU","Real Estate Services"
+"1682","LC","Credit Services"
+"1683","LEN","Residential Construction"
+"1684","LEN.B",NA
+"1685","LII","Diversified Industrials"
+"1686","LHC","Conglomerates"
+"1687","LHC.U",NA
+"1688","LHC.WS",NA
+"1689","LEVI",NA
+"1690","LXP","REIT - Diversified"
+"1691","LXP^C",NA
+"1692","LPL","Consumer Electronics"
+"1693","USA","Asset Management"
+"1694","ASG","Asset Management"
+"1695","LBRT","Oil &amp; Gas Equipment &amp; Services"
+"1696","LPT","REIT - Office"
+"1697","LSI","REIT - Industrial"
+"1698","LITB","Specialty Retail"
+"1699","LNC","Insurance - Life"
+"1700","LNC.WS",NA
+"1701","LIN","Specialty Chemicals"
+"1702","LNN","Farm &amp; Construction Equipment"
+"1703","LN","Software - Application"
+"1704","LGF.A",NA
+"1705","LGF.B",NA
+"1706","LAD","Auto &amp; Truck Dealerships"
+"1707","LAC","Industrial Metals &amp; Minerals"
+"1708","LYV","Media - Diversified"
+"1709","LTHM","Industrial Metals &amp; Minerals"
+"1710","RAMP","Information Technology Services"
+"1711","LYG","Banks - Regional - Europe"
+"1712","SCD","Asset Management"
+"1713","LMT","Aerospace &amp; Defense"
+"1714","L","Insurance - Property &amp; Casualty"
+"1715","LOMA","Building Materials"
+"1716","LPX","Building Materials"
+"1717","LOW","Home Improvement Stores"
+"1718","LXU","Chemicals"
+"1719","LKSD","Business Services"
+"1720","LTC","REIT - Healthcare Facilities"
+"1721","LUB","Restaurants"
+"1722","LL","Home Improvement Stores"
+"1723","LXFR","Diversified Industrials"
+"1724","LXFT","Software - Application"
+"1725","LDL","Auto Parts"
+"1726","WLH","Residential Construction"
+"1727","LYB","Specialty Chemicals"
+"1728","MTB","Banks - Regional - US"
+"1729","MTB^",NA
+"1730","MTB^C",NA
+"1731","MDC","Residential Construction"
+"1732","MHO","Residential Construction"
+"1733","MAC","REIT - Retail"
+"1734","CLI","REIT - Office"
+"1735","MFD","Asset Management"
+"1736","MGU","Asset Management"
+"1737","MIC","Airports &amp; Air Services"
+"1738","BMA","Banks - Regional - Latin America"
+"1739","M","Department Stores"
+"1740","MCN","Asset Management"
+"1741","MMP","Oil &amp; Gas Midstream"
+"1742","MGA","Auto Parts"
+"1743","MX","Semiconductors"
+"1744","MGY","Oil &amp; Gas E&amp;P"
+"1745","MGY.WS",NA
+"1746","MH^A",NA
+"1747","MH^C",NA
+"1748","MH^D",NA
+"1749","MHLA",NA
+"1750","MHNC",NA
+"1751","MAIN","Asset Management"
+"1752","MMD","Asset Management"
+"1753","MNK","Drug Manufacturers - Specialty &amp; Generic"
+"1754","MANU","Leisure"
+"1755","MTW","Farm &amp; Construction Equipment"
+"1756","MN","Asset Management"
+"1757","MAN","Staffing &amp; Outsourcing Services"
+"1758","MFC","Insurance - Life"
+"1759","MRO","Oil &amp; Gas E&amp;P"
+"1760","MPC","Oil &amp; Gas Refining &amp; Marketing"
+"1761","MMI","Real Estate Services"
+"1762","MCS","Media - Diversified"
+"1763","MPX","Recreational Vehicles"
+"1764","HZO","Specialty Retail"
+"1765","MKL","Insurance - Property &amp; Casualty"
+"1766","VAC","Resorts &amp; Casinos"
+"1767","MMC","Insurance Brokers"
+"1768","MLM","Building Materials"
+"1769","MAS","Building Materials"
+"1770","DOOR","Building Materials"
+"1771","MTZ","Engineering &amp; Construction"
+"1772","MA","Credit Services"
+"1773","MTDR","Oil &amp; Gas E&amp;P"
+"1774","MTRN","Industrial Metals &amp; Minerals"
+"1775","MATX","Shipping &amp; Ports"
+"1776","MLP","Real Estate - General"
+"1777","MAXR","Communication Equipment"
+"1778","MMS","Business Services"
+"1779","MXL","Semiconductors"
+"1780","MBI","Insurance - Property &amp; Casualty"
+"1781","MKC","Packaged Foods"
+"1782","MKC.V",NA
+"1783","MDR","Oil &amp; Gas Equipment &amp; Services"
+"1784","MCD","Restaurants"
+"1785","MUX","Industrial Metals &amp; Minerals"
+"1786","MCK","Medical Distribution"
+"1787","MDU","Building Materials"
+"1788","MTL","Steel"
+"1789","MTL^",NA
+"1790","MRT","REIT - Healthcare Facilities"
+"1791","MPW","REIT - Healthcare Facilities"
+"1792","MED","Specialty Retail"
+"1793","MCC","Asset Management"
+"1794","MCV",NA
+"1795","MCX",NA
+"1796","MDLQ",NA
+"1797","MDLX",NA
+"1798","MDLY","Asset Management"
+"1799","MD","Medical Care"
+"1800","MDT","Medical Devices"
+"1801","MFAC","Asset Management"
+"1802","MFAC.U",NA
+"1803","MFAC.WS",NA
+"1804","MRK","Drug Manufacturers - Major"
+"1805","MCY","Insurance - Property &amp; Casualty"
+"1806","MDP","Publishing"
+"1807","MTH","Residential Construction"
+"1808","MTOR","Auto Parts"
+"1809","MER^K",NA
+"1810","PIY",NA
+"1811","MTR","Asset Management"
+"1812","MSB","Asset Management"
+"1813","MEI","Electronic Components"
+"1814","MET","Insurance - Life"
+"1815","MET^A",NA
+"1816","MET^E",NA
+"1817","MCB","Banks - Regional - US"
+"1818","MTD","Diagnostics &amp; Research"
+"1819","MXE","Asset Management"
+"1820","MXF","Asset Management"
+"1821","MFA","REIT - Diversified"
+"1822","MFA^B",NA
+"1823","MFO",NA
+"1824","MFCB","Asset Management"
+"1825","MCR","Asset Management"
+"1826","MGF","Asset Management"
+"1827","MIN","Asset Management"
+"1828","MMT","Asset Management"
+"1829","MFM","Asset Management"
+"1830","MFV","Asset Management"
+"1831","MTG","Insurance - Specialty"
+"1832","MGP","REIT - Hotel &amp; Motel"
+"1833","MGM","Resorts &amp; Casinos"
+"1834","MFGP","Software - Application"
+"1835","MAA","REIT - Residential"
+"1836","MAA^I",NA
+"1837","MSL","Banks - Regional - US"
+"1838","MPO","Oil &amp; Gas E&amp;P"
+"1839","MCRN","Diversified Industrials"
+"1840","MLR","Auto Parts"
+"1841","HIE","Asset Management"
+"1842","MTX","Chemicals"
+"1843","MG","Security &amp; Protection Services"
+"1844","MUFG","Banks - Global"
+"1845","MIXT","Software - Infrastructure"
+"1846","MFG","Banks - Regional - Asia"
+"1847","MBT","Telecom Services"
+"1848","MODN","Software - Application"
+"1849","MOD","Auto Parts"
+"1850","MC","Asset Management"
+"1851","MOGU","Specialty Retail"
+"1852","MHK","Home Furnishings &amp; Fixtures"
+"1853","MOH","Health Care Plans"
+"1854","TAP","Beverages - Brewers"
+"1855","TAP.A",NA
+"1856","MNR","REIT - Industrial"
+"1857","MNR^C",NA
+"1858","MR","Oil &amp; Gas E&amp;P"
+"1859","MCO","Capital Markets"
+"1860","MOG.A",NA
+"1861","MOG.B",NA
+"1862","MS","Capital Markets"
+"1863","MS^A",NA
+"1864","MS^E",NA
+"1865","MS^F",NA
+"1866","MS^G",NA
+"1867","MS^I",NA
+"1868","MS^K",NA
+"1869","APF","Asset Management"
+"1870","CAF","Asset Management"
+"1871","MSD","Asset Management"
+"1872","EDD","Asset Management"
+"1873","IIF","Asset Management"
+"1874","MOSC","Conglomerates"
+"1875","MOSC.U",NA
+"1876","MOSC.WS",NA
+"1877","MOS","Agricultural Inputs"
+"1878","MSI","Communication Equipment"
+"1879","MOV","Luxury Goods"
+"1880","MPLX","Oil &amp; Gas Midstream"
+"1881","MRC","Oil &amp; Gas Equipment &amp; Services"
+"1882","HJV",NA
+"1883","MSA","Security &amp; Protection Services"
+"1884","MSM","Industrial Distribution"
+"1885","MSCI","Capital Markets"
+"1886","MSGN","Media - Diversified"
+"1887","MLI","Metal Fabrication"
+"1888","MWA","Diversified Industrials"
+"1889","MVF","Asset Management"
+"1890","MZA","Asset Management"
+"1891","MUR","Oil &amp; Gas E&amp;P"
+"1892","MUSA","Specialty Retail"
+"1893","MVO","Oil &amp; Gas E&amp;P"
+"1894","MVC","Asset Management"
+"1895","MVCD",NA
+"1896","MYE","Rubber &amp; Plastics"
+"1897","MYOV","Biotechnology"
+"1898","NBR","Oil &amp; Gas Drilling"
+"1899","NBR^A",NA
+"1900","NC","Coal"
+"1901","NTP","Real Estate Services"
+"1902","NTEST",NA
+"1903","NTEST.A",NA
+"1904","NTEST.B",NA
+"1905","NTEST.C",NA
+"1906","NBHC","Banks - Regional - US"
+"1907","NFG","Oil &amp; Gas E&amp;P"
+"1908","NGG","Utilities - Diversified"
+"1909","NHI","REIT - Healthcare Facilities"
+"1910","NOV","Oil &amp; Gas Equipment &amp; Services"
+"1911","NPK","Aerospace &amp; Defense"
+"1912","NNN","REIT - Retail"
+"1913","NNN^E",NA
+"1914","NNN^F",NA
+"1915","SID","Steel"
+"1916","NSA","REIT - Industrial"
+"1917","NSA^A",NA
+"1918","NGS","Oil &amp; Gas Equipment &amp; Services"
+"1919","NGVC","Grocery Stores"
+"1920","NRP","Coal"
+"1921","NTZ","Home Furnishings &amp; Fixtures"
+"1922","NLS","Leisure"
+"1923","NCI","Business Services"
+"1924","NVGS","Shipping &amp; Ports"
+"1925","NNA","Shipping &amp; Ports"
+"1926","NM","Shipping &amp; Ports"
+"1927","NM^G",NA
+"1928","NM^H",NA
+"1929","NMM","Shipping &amp; Ports"
+"1930","NAV","Truck Manufacturing"
+"1931","NAV^D",NA
+"1932","NCS","Metal Fabrication"
+"1933","NCR","Information Technology Services"
+"1934","NP","Paper &amp; Paper Products"
+"1935","NNI","Credit Services"
+"1936","NPTN","Semiconductors"
+"1937","NETS","Specialty Retail"
+"1938","NVRO","Medical Devices"
+"1939","HYB","Asset Management"
+"1940","NFC","Conglomerates"
+"1941","NFC.U",NA
+"1942","NFC.WS",NA
+"1943","GF","Asset Management"
+"1944","NWHM","Residential Construction"
+"1945","IRL","Asset Management"
+"1946","NEWM","Publishing"
+"1947","NMFC","Asset Management"
+"1948","NMFX",NA
+"1949","EDU","Education &amp; Training Services"
+"1950","NEWR","Software - Infrastructure"
+"1951","NRZ","REIT - Residential"
+"1952","SNR","REIT - Diversified"
+"1953","NYCB","Savings &amp; Cooperative Banks"
+"1954","NYCB^A",NA
+"1955","NYCB^U",NA
+"1956","NYT","Publishing"
+"1957","NJR","Utilities - Regulated Gas"
+"1958","NEU","Specialty Chemicals"
+"1959","NEM","Gold"
+"1960","NR","Oil &amp; Gas Equipment &amp; Services"
+"1961","NEXA","Industrial Metals &amp; Minerals"
+"1962","NXRT","REIT - Residential"
+"1963","NHF","Asset Management"
+"1964","NEP","Utilities - Independent Power Producers"
+"1965","NEE","Utilities - Regulated Electric"
+"1966","NEE^I",NA
+"1967","NEE^J",NA
+"1968","NEE^K",NA
+"1969","NEE^N",NA
+"1970","NEE^R",NA
+"1971","NGL","Oil &amp; Gas Refining &amp; Marketing"
+"1972","NGL^B",NA
+"1973","NMK^B",NA
+"1974","NMK^C",NA
+"1975","NLSN","Business Services"
+"1976","NKE","Footwear &amp; Accessories"
+"1977","NINE","Oil &amp; Gas Equipment &amp; Services"
+"1978","NIO","Auto Manufacturers"
+"1979","NI","Utilities - Regulated Gas"
+"1980","NI^B",NA
+"1981","NL","Industrial Distribution"
+"1982","NOAH","Asset Management"
+"1983","NE","Oil &amp; Gas Drilling"
+"1984","NBL","Oil &amp; Gas E&amp;P"
+"1985","NBLX","Oil &amp; Gas Midstream"
+"1986","NOK","Communication Equipment"
+"1987","NOMD","Packaged Foods"
+"1988","NMR","Capital Markets"
+"1989","OSB","Lumber &amp; Wood Production"
+"1990","NAO","Shipping &amp; Ports"
+"1991","NAT","Shipping &amp; Ports"
+"1992","JWN","Department Stores"
+"1993","NSC","Railroads"
+"1994","NOA",NA
+"1995","NRT","Oil &amp; Gas Equipment &amp; Services"
+"1996","NOC","Aerospace &amp; Defense"
+"1997","NRE","REIT - Office"
+"1998","NWN","Utilities - Regulated Gas"
+"1999","NWE","Utilities - Diversified"
+"2000","NCLH","Leisure"
+"2001","NVS","Drug Manufacturers - Major"
+"2002","NVO","Biotechnology"
+"2003","DNOW","Oil &amp; Gas Equipment &amp; Services"
+"2004","NRG","Utilities - Independent Power Producers"
+"2005","NUS","Household &amp; Personal Products"
+"2006","NUE","Steel"
+"2007","NS","Oil &amp; Gas Midstream"
+"2008","NS^A",NA
+"2009","NS^B",NA
+"2010","NS^C",NA
+"2011","NSS",NA
+"2012","NTR","Agricultural Inputs"
+"2013","JMLP","Asset Management"
+"2014","NVG","Asset Management"
+"2015","NUV","Asset Management"
+"2016","NUW","Asset Management"
+"2017","NEA","Asset Management"
+"2018","NAZ","Asset Management"
+"2019","NKX","Asset Management"
+"2020","NCB","Asset Management"
+"2021","NCA","Asset Management"
+"2022","NAC","Asset Management"
+"2023","NTC","Asset Management"
+"2024","JCE","Asset Management"
+"2025","JCO","Asset Management"
+"2026","JQC","Asset Management"
+"2027","JDD","Asset Management"
+"2028","DIAX","Asset Management"
+"2029","JEMD",NA
+"2030","JMF","Asset Management"
+"2031","NEV","Asset Management"
+"2032","JFR","Asset Management"
+"2033","JRO","Asset Management"
+"2034","NKG","Asset Management"
+"2035","JGH","Asset Management"
+"2036","JHY","Asset Management"
+"2037","JHAA",NA
+"2038","JHD",NA
+"2039","JHB",NA
+"2040","NXC","Asset Management"
+"2041","NXN","Asset Management"
+"2042","NID","Asset Management"
+"2043","NMY","Asset Management"
+"2044","NMT","Asset Management"
+"2045","NUM","Asset Management"
+"2046","NMS","Asset Management"
+"2047","NOM","Asset Management"
+"2048","JLS","Asset Management"
+"2049","JMM",NA
+"2050","NHA","Asset Management"
+"2051","NZF","Asset Management"
+"2052","NMZ","Asset Management"
+"2053","NMI","Asset Management"
+"2054","NJV","Asset Management"
+"2055","NXJ","Asset Management"
+"2056","NRK","Asset Management"
+"2057","NYV","Asset Management"
+"2058","NNY","Asset Management"
+"2059","NAN","Asset Management"
+"2060","NNC","Asset Management"
+"2061","NUO","Asset Management"
+"2062","NPN","Asset Management"
+"2063","NQP","Asset Management"
+"2064","JPC","Asset Management"
+"2065","JPS","Asset Management"
+"2066","JPT",NA
+"2067","JPI","Asset Management"
+"2068","NAD","Asset Management"
+"2069","JRI","Asset Management"
+"2070","JRS","Asset Management"
+"2071","BXMX","Asset Management"
+"2072","SPXX","Asset Management"
+"2073","NIM","Asset Management"
+"2074","NXP","Asset Management"
+"2075","NXQ","Asset Management"
+"2076","NXR","Asset Management"
+"2077","NSL","Asset Management"
+"2078","JSD","Asset Management"
+"2079","NBB","Asset Management"
+"2080","JTD","Asset Management"
+"2081","JTA","Asset Management"
+"2082","NTX","Asset Management"
+"2083","NPV","Asset Management"
+"2084","NIQ","Asset Management"
+"2085","JMT","Asset Management"
+"2086","NVT","Electronic Components"
+"2087","NVR","Residential Construction"
+"2088","OAK","Asset Management"
+"2089","OAK^A",NA
+"2090","OAK^B",NA
+"2091","OSLE",NA
+"2092","OMP","Oil &amp; Gas Midstream"
+"2093","OAS","Oil &amp; Gas E&amp;P"
+"2094","OBE","Oil &amp; Gas E&amp;P"
+"2095","OXY","Oil &amp; Gas E&amp;P"
+"2096","OII","Oil &amp; Gas Equipment &amp; Services"
+"2097","OZM","Asset Management"
+"2098","OCN","Specialty Finance"
+"2099","OFG","Banks - Regional - US"
+"2100","OFG^A",NA
+"2101","OFG^B",NA
+"2102","OFG^D",NA
+"2103","OGE","Utilities - Regulated Electric"
+"2104","OIBR.C",NA
+"2105","OIS","Oil &amp; Gas Equipment &amp; Services"
+"2106","ODC","Specialty Chemicals"
+"2107","ORI","Insurance - Diversified"
+"2108","OLN","Specialty Chemicals"
+"2109","OHI","REIT - Healthcare Facilities"
+"2110","OMC","Advertising Agencies"
+"2111","OMN","Specialty Chemicals"
+"2112","ONDK","Credit Services"
+"2113","OGS","Utilities - Regulated Gas"
+"2114","OLP","REIT - Diversified"
+"2115","OMAD","Conglomerates"
+"2116","OMAD.U",NA
+"2117","OMAD.WS",NA
+"2118","OMF","Credit Services"
+"2119","OKE","Oil &amp; Gas Midstream"
+"2120","ONE","Education &amp; Training Services"
+"2121","OOMA","Telecom Services"
+"2122","OPY","Capital Markets"
+"2123","ORCL","Software - Infrastructure"
+"2124","ORAN","Telecom Services"
+"2125","ORC","REIT - Diversified"
+"2126","OEC","Specialty Chemicals"
+"2127","ORN","Engineering &amp; Construction"
+"2128","IX","Credit Services"
+"2129","ORA","Utilities - Independent Power Producers"
+"2130","OSK","Truck Manufacturing"
+"2131","OR","Gold"
+"2132","OUT","REIT - Diversified"
+"2133","OSG","Shipping &amp; Ports"
+"2134","OMI","Medical Distribution"
+"2135","OC","Building Materials"
+"2136","OI","Packaging &amp; Containers"
+"2137","OXM","Apparel Manufacturing"
+"2138","ROYT","Oil &amp; Gas E&amp;P"
+"2139","PACD","Oil &amp; Gas Drilling"
+"2140","PCG","Utilities - Regulated Electric"
+"2141","PKG","Packaging &amp; Containers"
+"2142","PAGS","Software - Infrastructure"
+"2143","PANW","Software - Application"
+"2144","PAM","Utilities - Regulated Electric"
+"2145","PHX","Oil &amp; Gas E&amp;P"
+"2146","PARR","Oil &amp; Gas E&amp;P"
+"2147","PAR","Software - Application"
+"2148","PGRE","REIT - Office"
+"2149","PKE","Semiconductor Equipment &amp; Materials"
+"2150","PK","REIT - Hotel &amp; Motel"
+"2151","PH","Diversified Industrials"
+"2152","PE","Oil &amp; Gas E&amp;P"
+"2153","PRE^F",NA
+"2154","PRE^G",NA
+"2155","PRE^H",NA
+"2156","PRE^I",NA
+"2157","PRTY","Specialty Retail"
+"2158","PAYC","Software - Application"
+"2159","PBF","Oil &amp; Gas Refining &amp; Marketing"
+"2160","PBFX","Oil &amp; Gas Midstream"
+"2161","BTU","Coal"
+"2162","PSO","Publishing"
+"2163","PEB","REIT - Hotel &amp; Motel"
+"2164","PEB^C",NA
+"2165","PEB^D",NA
+"2166","PEB^E",NA
+"2167","PEB^F",NA
+"2168","PBA","Oil &amp; Gas Midstream"
+"2169","PEI","REIT - Retail"
+"2170","PEI^B",NA
+"2171","PEI^C",NA
+"2172","PEI^D",NA
+"2173","PFSI","Specialty Finance"
+"2174","PMT","REIT - Diversified"
+"2175","PMT^A",NA
+"2176","PMT^B",NA
+"2177","PAG","Auto &amp; Truck Dealerships"
+"2178","PNR","Diversified Industrials"
+"2179","PEN","Medical Devices"
+"2180","PFGC","Food Distribution"
+"2181","PKI","Diagnostics &amp; Research"
+"2182","PBT","Oil &amp; Gas E&amp;P"
+"2183","PVL","Oil &amp; Gas E&amp;P"
+"2184","PRT","Oil &amp; Gas Equipment &amp; Services"
+"2185","PRGO","Drug Manufacturers - Specialty &amp; Generic"
+"2186","PRSP","Information Technology Services"
+"2187","PTR","Oil &amp; Gas Integrated"
+"2188","PBR","Oil &amp; Gas Integrated"
+"2189","PBR.A",NA
+"2190","PFE","Drug Manufacturers - Major"
+"2191","GHY","Asset Management"
+"2192","ISD","Asset Management"
+"2193","PGTI","Building Materials"
+"2194","PM","Tobacco"
+"2195","PSX","Oil &amp; Gas Refining &amp; Marketing"
+"2196","PSXP","Oil &amp; Gas Midstream"
+"2197","FENG","Internet Content &amp; Information"
+"2198","DOC","REIT - Healthcare Facilities"
+"2199","PDM","REIT - Office"
+"2200","PIR","Specialty Retail"
+"2201","PCQ","Asset Management"
+"2202","PCK","Asset Management"
+"2203","PZC","Asset Management"
+"2204","PCM","Asset Management"
+"2205","PTY","Asset Management"
+"2206","PCN","Asset Management"
+"2207","PCI","Asset Management"
+"2208","PDI","Asset Management"
+"2209","NRGX",NA
+"2210","PGP","Asset Management"
+"2211","PHK","Asset Management"
+"2212","PKO","Asset Management"
+"2213","PFL","Asset Management"
+"2214","PFN","Asset Management"
+"2215","PMF","Asset Management"
+"2216","PML","Asset Management"
+"2217","PMX","Asset Management"
+"2218","PNF","Asset Management"
+"2219","PNI","Asset Management"
+"2220","PYN","Asset Management"
+"2221","RCS","Asset Management"
+"2222","PNW","Utilities - Regulated Electric"
+"2223","PES","Oil &amp; Gas Drilling"
+"2224","PHD","Asset Management"
+"2225","PHT","Asset Management"
+"2226","MAV","Asset Management"
+"2227","MHI","Asset Management"
+"2228","PXD","Oil &amp; Gas E&amp;P"
+"2229","PJC","Asset Management"
+"2230","PBI","Business Equipment"
+"2231","PBI^B",NA
+"2232","PVT",NA
+"2233","PVT.U",NA
+"2234","PVT.WS",NA
+"2235","PVTL","Software - Application"
+"2236","PJT","Capital Markets"
+"2237","PAA","Oil &amp; Gas Midstream"
+"2238","PAGP","Oil &amp; Gas Midstream"
+"2239","PLNT","Leisure"
+"2240","PLT","Communication Equipment"
+"2241","AGS","Gambling"
+"2242","PHI","Telecom Services"
+"2243","PNC","Banks - Regional - US"
+"2244","PNC^P",NA
+"2245","PNC^Q",NA
+"2246","PNM","Utilities - Regulated Electric"
+"2247","PII","Recreational Vehicles"
+"2248","POL","Specialty Chemicals"
+"2249","POR","Utilities - Regulated Electric"
+"2250","PKX","Steel"
+"2251","POST","Packaged Foods"
+"2252","PPDF","Credit Services"
+"2253","PPG","Specialty Chemicals"
+"2254","PPX",NA
+"2255","PPL","Utilities - Regulated Electric"
+"2256","PYS",NA
+"2257","PYT",NA
+"2258","PQG","Specialty Chemicals"
+"2259","PDS","Oil &amp; Gas Drilling"
+"2260","APTS","REIT - Residential"
+"2261","PBH","Medical Distribution"
+"2262","PVG","Industrial Metals &amp; Minerals"
+"2263","PRI","Insurance - Life"
+"2264","PGZ","Asset Management"
+"2265","PRIF^A",NA
+"2266","PRIF^B",NA
+"2267","PRIF^C",NA
+"2268","PRA","Insurance - Property &amp; Casualty"
+"2269","PG","Household &amp; Personal Products"
+"2270","PGR","Insurance - Property &amp; Casualty"
+"2271","PLD","REIT - Industrial"
+"2272","PUMP","Oil &amp; Gas Equipment &amp; Services"
+"2273","PRO","Software - Application"
+"2274","PBB",NA
+"2275","PBC",NA
+"2276","PBY",NA
+"2277","PB","Banks - Regional - US"
+"2278","PRLB","Tools &amp; Accessories"
+"2279","PFS","Savings &amp; Cooperative Banks"
+"2280","PJH",NA
+"2281","PRH",NA
+"2282","PRS",NA
+"2283","PRU","Insurance - Life"
+"2284","PUK","Insurance - Life"
+"2285","PUK^",NA
+"2286","PUK^A",NA
+"2287","PSB","REIT - Diversified"
+"2288","PSB^U",NA
+"2289","PSB^V",NA
+"2290","PSB^W",NA
+"2291","PSB^X",NA
+"2292","PSB^Y",NA
+"2293","TLK","Telecom Services"
+"2294","PEG","Utilities - Diversified"
+"2295","PSA","REIT - Industrial"
+"2296","PSA^A",NA
+"2297","PSA^B",NA
+"2298","PSA^C",NA
+"2299","PSA^D",NA
+"2300","PSA^E",NA
+"2301","PSA^F",NA
+"2302","PSA^G",NA
+"2303","PSA^H",NA
+"2304","PSA^U",NA
+"2305","PSA^V",NA
+"2306","PSA^W",NA
+"2307","PSA^X",NA
+"2308","PSA^Y.CL",NA
+"2309","PSA^Z",NA
+"2310","PHM","Residential Construction"
+"2311","PSTG","Data Storage"
+"2312","PMM","Asset Management"
+"2313","PIM","Asset Management"
+"2314","PMO","Asset Management"
+"2315","PPT","Asset Management"
+"2316","NEW","Education &amp; Training Services"
+"2317","PVH","Apparel Manufacturing"
+"2318","PYX","Tobacco"
+"2319","PZN","Asset Management"
+"2320","QTWO","Software - Infrastructure"
+"2321","QEP","Oil &amp; Gas Integrated"
+"2322","QGEN","Diagnostics &amp; Research"
+"2323","QTS","REIT - Industrial"
+"2324","QTS^A",NA
+"2325","QTS^B",NA
+"2326","QUAD","Business Services"
+"2327","KWR","Specialty Chemicals"
+"2328","NX","Building Materials"
+"2329","PWR","Engineering &amp; Construction"
+"2330","QD","Credit Services"
+"2331","DGX","Diagnostics &amp; Research"
+"2332","QES","Oil &amp; Gas Equipment &amp; Services"
+"2333","QHC","Medical Care"
+"2334","QUOT","Marketing Services"
+"2335","QVCD",NA
+"2336","CTAA",NA
+"2337","CTBB",NA
+"2338","CTDD",NA
+"2339","CTV",NA
+"2340","CTY",NA
+"2341","CTZ",NA
+"2342","RRD","Business Services"
+"2343","RMED","Medical Devices"
+"2344","RDN","Insurance - Specialty"
+"2345","RL","Apparel Manufacturing"
+"2346","RRC","Oil &amp; Gas E&amp;P"
+"2347","RNGR","Oil &amp; Gas Equipment &amp; Services"
+"2348","RJF","Capital Markets"
+"2349","RYAM","Chemicals"
+"2350","RYAM^A",NA
+"2351","RYN","Lumber &amp; Wood Production"
+"2352","RTN","Aerospace &amp; Defense"
+"2353","RMAX","Real Estate Services"
+"2354","RC","REIT - Diversified"
+"2355","RCA",NA
+"2356","RCP",NA
+"2357","RLGY","Real Estate Services"
+"2358","O","REIT - Retail"
+"2359","RHT","Software - Application"
+"2360","RLH","Lodging"
+"2361","RWT","REIT - Diversified"
+"2362","RBC","Diversified Industrials"
+"2363","RWGE","Conglomerates"
+"2364","RWGE.U",NA
+"2365","RWGE.WS",NA
+"2366","RM","Credit Services"
+"2367","RF","Banks - Regional - US"
+"2368","RF^A",NA
+"2369","RF^B",NA
+"2370","RGS","Personal Services"
+"2371","RGA","Insurance - Reinsurance"
+"2372","RZA",NA
+"2373","RZB",NA
+"2374","RS","Steel"
+"2375","RELX","Publishing"
+"2376","RNR","Insurance - Reinsurance"
+"2377","RNR^C",NA
+"2378","RNR^E",NA
+"2379","RNR^F",NA
+"2380","SOL","Solar"
+"2381","RENN","Internet Content &amp; Information"
+"2382","RSG","Waste Management"
+"2383","REZI","Security &amp; Protection Services"
+"2384","RMD","Medical Instruments &amp; Supplies"
+"2385","RFP","Paper &amp; Paper Products"
+"2386","QSR","Restaurants"
+"2387","RPAI","REIT - Retail"
+"2388","RVI","REIT - Retail"
+"2389","REVG","Recreational Vehicles"
+"2390","REV","Household &amp; Personal Products"
+"2391","REX","Chemicals"
+"2392","REXR","REIT - Industrial"
+"2393","REXR^A",NA
+"2394","REXR^B",NA
+"2395","RXN","Diversified Industrials"
+"2396","RXN^A",NA
+"2397","RH","Specialty Retail"
+"2398","RNG","Software - Application"
+"2399","RIO","Industrial Metals &amp; Minerals"
+"2400","RBA","Business Services"
+"2401","RAD","Pharmaceutical Retailers"
+"2402","RMPL^",NA
+"2403","RMI",NA
+"2404","RIV",NA
+"2405","OPP","Asset Management"
+"2406","RLI","Insurance - Property &amp; Casualty"
+"2407","RLJ","REIT - Hotel &amp; Motel"
+"2408","RLJ^A",NA
+"2409","RMG.U",NA
+"2410","RRTS","Trucking"
+"2411","ROAN","Oil &amp; Gas E&amp;P"
+"2412","RHI","Staffing &amp; Outsourcing Services"
+"2413","ROK","Diversified Industrials"
+"2414","RCI","Telecom Services"
+"2415","ROG","Electronic Components"
+"2416","ROL","Business Services"
+"2417","ROP","Diversified Industrials"
+"2418","RST","Software - Application"
+"2419","RDC","Oil &amp; Gas Drilling"
+"2420","RY","Banks - Global"
+"2421","RY^T",NA
+"2422","RBS","Banks - Global"
+"2423","RCL","Leisure"
+"2424","RDS.A",NA
+"2425","RDS.B",NA
+"2426","RGT","Asset Management"
+"2427","RMT","Asset Management"
+"2428","RVT","Asset Management"
+"2429","RES","Oil &amp; Gas Equipment &amp; Services"
+"2430","RPM","Specialty Chemicals"
+"2431","RPT","REIT - Retail"
+"2432","RPT^D",NA
+"2433","RTW","Apparel Stores"
+"2434","RTEC","Scientific &amp; Technical Instruments"
+"2435","RYB","Education &amp; Training Services"
+"2436","R","Rental &amp; Leasing Services"
+"2437","RYI","Metal Fabrication"
+"2438","RHP","REIT - Hotel &amp; Motel"
+"2439","SPGI","Capital Markets"
+"2440","SBR","Oil &amp; Gas Drilling"
+"2441","SB","Shipping &amp; Ports"
+"2442","SB^C",NA
+"2443","SB^D",NA
+"2444","SFE","Asset Management"
+"2445","SAFE","Real Estate - General"
+"2446","SAIL","Software - Infrastructure"
+"2447","CRM","Software - Application"
+"2448","SMM","Asset Management"
+"2449","SBH","Specialty Retail"
+"2450","SJT","Oil &amp; Gas E&amp;P"
+"2451","SD","Oil &amp; Gas E&amp;P"
+"2452","SDT","Oil &amp; Gas E&amp;P"
+"2453","SDR","Oil &amp; Gas E&amp;P"
+"2454","PER","Oil &amp; Gas E&amp;P"
+"2455","SC","Specialty Finance"
+"2456","SAP","Software - Application"
+"2457","SAB",NA
+"2458","SAF",NA
+"2459","SAR","Asset Management"
+"2460","SSL","Oil &amp; Gas Integrated"
+"2461","BFS","REIT - Retail"
+"2462","BFS^C",NA
+"2463","BFS^D",NA
+"2464","SLB","Oil &amp; Gas Equipment &amp; Services"
+"2465","SNDR","Trucking"
+"2466","SWM","Paper &amp; Paper Products"
+"2467","SAIC","Information Technology Services"
+"2468","SALT","Shipping &amp; Ports"
+"2469","SLTB",NA
+"2470","SBNA",NA
+"2471","STNG","Shipping &amp; Ports"
+"2472","SMG","Agricultural Inputs"
+"2473","KTF","Asset Management"
+"2474","KSM","Asset Management"
+"2475","SE","Electronic Gaming &amp; Multimedia"
+"2476","SA","Gold"
+"2477","CKH","Oil &amp; Gas Equipment &amp; Services"
+"2478","SMHI","Shipping &amp; Ports"
+"2479","SDRL","Oil &amp; Gas Drilling"
+"2480","SDLP","Oil &amp; Gas Drilling"
+"2481","SEE","Packaging &amp; Containers"
+"2482","SSW","Shipping &amp; Ports"
+"2483","SSW^D",NA
+"2484","SSW^E",NA
+"2485","SSW^G",NA
+"2486","SSW^H",NA
+"2487","SSW^I",NA
+"2488","SSWA",NA
+"2489","SSWN",NA
+"2490","SEAS","Leisure"
+"2491","JBN",NA
+"2492","JBR",NA
+"2493","WTTR","Pollution &amp; Treatment Controls"
+"2494","SEM","Medical Care"
+"2495","SEMG","Oil &amp; Gas Midstream"
+"2496","SMI","Semiconductors"
+"2497","SRE","Utilities - Diversified"
+"2498","SRE^A",NA
+"2499","SRE^B",NA
+"2500","ST","Scientific &amp; Technical Instruments"
+"2501","SXT","Specialty Chemicals"
+"2502","SQNS","Semiconductors"
+"2503","SRG","REIT - Retail"
+"2504","SRG^A",NA
+"2505","SCI","Personal Services"
+"2506","SERV","Business Services"
+"2507","NOW","Software - Application"
+"2508","SHAK","Restaurants"
+"2509","SJR","Telecom Services"
+"2510","SHLX","Oil &amp; Gas Midstream"
+"2511","SHW","Specialty Chemicals"
+"2512","SHG","Banks - Regional - Asia"
+"2513","SFL","Shipping &amp; Ports"
+"2514","SHOP","Software - Application"
+"2515","SSTK","Internet Content &amp; Information"
+"2516","SBGL","Gold"
+"2517","SIG","Luxury Goods"
+"2518","SBOW","Oil &amp; Gas E&amp;P"
+"2519","SPG","REIT - Retail"
+"2520","SPG^J",NA
+"2521","SSD","Tools &amp; Accessories"
+"2522","SHI","Oil &amp; Gas Refining &amp; Marketing"
+"2523","SITC","REIT - Retail"
+"2524","SITC^A",NA
+"2525","SITC^J",NA
+"2526","SITC^K",NA
+"2527","SITE","Industrial Distribution"
+"2528","SIX","Leisure"
+"2529","SJW","Utilities - Regulated Water"
+"2530","SKM","Telecom Services"
+"2531","SKX","Footwear &amp; Accessories"
+"2532","SKY","Residential Construction"
+"2533","SLG","REIT - Office"
+"2534","SLG^I",NA
+"2535","SM","Oil &amp; Gas E&amp;P"
+"2536","SFS","Grocery Stores"
+"2537","SMAR","Software - Application"
+"2538","SNN","Medical Devices"
+"2539","SNAP","Internet Content &amp; Information"
+"2540","SNA","Tools &amp; Accessories"
+"2541","IPOA","Conglomerates"
+"2542","IPOA.U",NA
+"2543","IPOA.WS",NA
+"2544","SQM","Chemicals"
+"2545","SOGO","Internet Content &amp; Information"
+"2546","SOI","Oil &amp; Gas Equipment &amp; Services"
+"2547","SWI","Software - Infrastructure"
+"2548","SAH","Auto &amp; Truck Dealerships"
+"2549","SON","Packaging &amp; Containers"
+"2550","SNE","Consumer Electronics"
+"2551","BID","Specialty Retail"
+"2552","SOR","Asset Management"
+"2553","SJI","Utilities - Regulated Gas"
+"2554","SJIU",NA
+"2555","SCE^G",NA
+"2556","SCE^H",NA
+"2557","SCE^J",NA
+"2558","SCE^K",NA
+"2559","SCE^L",NA
+"2560","SO","Utilities - Regulated Electric"
+"2561","SOJA",NA
+"2562","SOJB",NA
+"2563","SOJC",NA
+"2564","SCCO","Copper"
+"2565","LUV","Airlines"
+"2566","SWX","Utilities - Regulated Gas"
+"2567","SWN","Oil &amp; Gas E&amp;P"
+"2568","SPAQ","Asset Management"
+"2569","SPAQ.U",NA
+"2570","SPAQ.WS",NA
+"2571","SPE","Asset Management"
+"2572","SPE^B",NA
+"2573","SPB           ","Home Furnishings &amp; Fixtures"
+"2574","TRK","Leisure"
+"2575","SR","Utilities - Regulated Gas"
+"2576","SPR","Aerospace &amp; Defense"
+"2577","SAVE","Airlines"
+"2578","SMTA","REIT - Diversified"
+"2579","SRC","REIT - Diversified"
+"2580","SRC^A",NA
+"2581","SPOT","Internet Content &amp; Information"
+"2582","SRLP","Oil &amp; Gas Refining &amp; Marketing"
+"2583","S","Telecom Services"
+"2584","SPXC","Diversified Industrials"
+"2585","FLOW","Diversified Industrials"
+"2586","SQ","Software - Application"
+"2587","JOE","Real Estate - General"
+"2588","STAG","REIT - Industrial"
+"2589","STAG^C",NA
+"2590","SSI","Apparel Stores"
+"2591","SMP","Auto Parts"
+"2592","SXI","Diversified Industrials"
+"2593","SWJ",NA
+"2594","SWK","Tools &amp; Accessories"
+"2595","SWP",NA
+"2596","STN","Engineering &amp; Construction"
+"2597","SGU","Oil &amp; Gas Midstream"
+"2598","SRT","Business Services"
+"2599","STWD","REIT - Diversified"
+"2600","STT","Asset Management"
+"2601","STT^C",NA
+"2602","STT^D",NA
+"2603","STT^E",NA
+"2604","STT^G",NA
+"2605","SPLP","Conglomerates"
+"2606","SPLP^A",NA
+"2607","SCS","Business Equipment"
+"2608","SCA",NA
+"2609","SCM","Asset Management"
+"2610","SCL","Specialty Chemicals"
+"2611","STE","Medical Instruments &amp; Supplies"
+"2612","STL","Banks - Regional - US"
+"2613","STL^A",NA
+"2614","STC","Insurance - Property &amp; Casualty"
+"2615","SF","Capital Markets"
+"2616","SF^A",NA
+"2617","SF^B",NA
+"2618","SFB",NA
+"2619","STM","Semiconductors"
+"2620","EDF","Asset Management"
+"2621","EDI","Asset Management"
+"2622","STON","Personal Services"
+"2623","SRI","Auto Parts"
+"2624","STOR","REIT - Diversified"
+"2625","GJH",NA
+"2626","GJO",NA
+"2627","GJS",NA
+"2628","SYK","Medical Devices"
+"2629","MSC","Resorts &amp; Casinos"
+"2630","RGR","Aerospace &amp; Defense"
+"2631","SPH","Utilities - Regulated Gas"
+"2632","SMFG","Banks - Global"
+"2633","INN","REIT - Hotel &amp; Motel"
+"2634","INN^D",NA
+"2635","INN^E",NA
+"2636","SUM","Building Materials"
+"2637","SMLP","Oil &amp; Gas Midstream"
+"2638","SUI","REIT - Residential"
+"2639","SLF","Insurance - Diversified"
+"2640","SXCP","Coal"
+"2641","SXC","Coal"
+"2642","SU","Oil &amp; Gas Integrated"
+"2643","STG","Education &amp; Training Services"
+"2644","SUN","Oil &amp; Gas Refining &amp; Marketing"
+"2645","SHO","REIT - Hotel &amp; Motel"
+"2646","SHO^E",NA
+"2647","SHO^F",NA
+"2648","STI","Banks - Regional - US"
+"2649","STI^A",NA
+"2650","SPN","Oil &amp; Gas Equipment &amp; Services"
+"2651","SUP","Auto Parts"
+"2652","SUZ","Paper &amp; Paper Products"
+"2653","SWZ","Asset Management"
+"2654","SWCH","Information Technology Services"
+"2655","SYF","Credit Services"
+"2656","SNX","Business Services"
+"2657","SNV","Banks - Regional - US"
+"2658","SNV^D",NA
+"2659","GJP",NA
+"2660","GJR",NA
+"2661","GJT",NA
+"2662","GJV",NA
+"2663","SYY","Food Distribution"
+"2664","SYX","Specialty Retail"
+"2665","DATA","Software - Application"
+"2666","TLRD","Apparel Stores"
+"2667","TWN","Asset Management"
+"2668","TSM","Semiconductors"
+"2669","TAK","Drug Manufacturers - Specialty &amp; Generic"
+"2670","TAL","Education &amp; Training Services"
+"2671","TGE","Oil &amp; Gas Midstream"
+"2672","TALO","Oil &amp; Gas E&amp;P"
+"2673","SKT","REIT - Retail"
+"2674","TPR","Luxury Goods"
+"2675","NGLS^A",NA
+"2676","TRGP","Oil &amp; Gas Midstream"
+"2677","TGT","Discount Stores"
+"2678","TARO","Drug Manufacturers - Specialty &amp; Generic"
+"2679","TTM","Auto Manufacturers"
+"2680","TCO","REIT - Retail"
+"2681","TCO^J",NA
+"2682","TCO^K",NA
+"2683","TMHC","Residential Construction"
+"2684","TCP","Oil &amp; Gas Midstream"
+"2685","TCF","Banks - Regional - US"
+"2686","TCF^D",NA
+"2687","TSI","Asset Management"
+"2688","TEL","Electronic Components"
+"2689","TISI","Business Services"
+"2690","FTI","Oil &amp; Gas Equipment &amp; Services"
+"2691","TECK","Industrial Metals &amp; Minerals"
+"2692","TK","Oil &amp; Gas Integrated"
+"2693","TGP","Shipping &amp; Ports"
+"2694","TGP^A",NA
+"2695","TGP^B",NA
+"2696","TOO","Shipping &amp; Ports"
+"2697","TOO^A",NA
+"2698","TOO^B",NA
+"2699","TOO^E",NA
+"2700","TNK","Shipping &amp; Ports"
+"2701","GCI","Publishing"
+"2702","TGNA","Broadcasting - TV"
+"2703","TRC","Real Estate - General"
+"2704","HQH","Asset Management"
+"2705","THQ","Asset Management"
+"2706","HQL","Asset Management"
+"2707","THW","Asset Management"
+"2708","TDOC","Health Information Services"
+"2709","TLRA","Software - Application"
+"2710","TEO","Telecom Services"
+"2711","TI","Telecom Services"
+"2712","TI.A",NA
+"2713","TDY","Scientific &amp; Technical Instruments"
+"2714","TFX","Medical Instruments &amp; Supplies"
+"2715","VIV","Telecom Services"
+"2716","TEF","Telecom Services"
+"2717","TDA",NA
+"2718","TDE",NA
+"2719","TDI",NA
+"2720","TDJ",NA
+"2721","TDS","Telecom Services"
+"2722","TU","Telecom Services"
+"2723","TDF","Asset Management"
+"2724","EMF","Asset Management"
+"2725","TEI","Asset Management"
+"2726","GIM","Asset Management"
+"2727","TPX","Home Furnishings &amp; Fixtures"
+"2728","TS","Oil &amp; Gas Equipment &amp; Services"
+"2729","TME","Internet Content &amp; Information"
+"2730","THC","Medical Care"
+"2731","TNC","Diversified Industrials"
+"2732","TEN","Auto Parts"
+"2733","TVC",NA
+"2734","TVE",NA
+"2735","TDC","Data Storage"
+"2736","TEX","Farm &amp; Construction Equipment"
+"2737","TX","Steel"
+"2738","TRNO","REIT - Industrial"
+"2739","TTI","Oil &amp; Gas Equipment &amp; Services"
+"2740","TEVA","Drug Manufacturers - Specialty &amp; Generic"
+"2741","TPL","Real Estate - General"
+"2742","TGH","Rental &amp; Leasing Services"
+"2743","TXT","Aerospace &amp; Defense"
+"2744","AES","Utilities - Diversified"
+"2745","BX","Asset Management"
+"2746","CEE","Asset Management"
+"2747","SCHW","Capital Markets"
+"2748","SCHW^C",NA
+"2749","SCHW^D",NA
+"2750","COO","Medical Instruments &amp; Supplies"
+"2751","GRX","Asset Management"
+"2752","GRX^A",NA
+"2753","GRX^B",NA
+"2754","GDL","Asset Management"
+"2755","GDL^C",NA
+"2756","THG","Insurance - Property &amp; Casualty"
+"2757","THGA",NA
+"2758","MSG","Leisure"
+"2759","RUBI","Software - Infrastructure"
+"2760","TRV","Insurance - Property &amp; Casualty"
+"2761","VAM",NA
+"2762","TMO","Diagnostics &amp; Research"
+"2763","THR","Diversified Industrials"
+"2764","TPRE","Insurance - Reinsurance"
+"2765","TSLF",NA
+"2766","TCRW",NA
+"2767","TCRZ",NA
+"2768","TRI","Capital Markets"
+"2769","THO","Recreational Vehicles"
+"2770","TDW","Oil &amp; Gas Equipment &amp; Services"
+"2771","TDW.WS.A",NA
+"2772","TDW.WS.B",NA
+"2773","TIER","REIT - Office"
+"2774","TIF","Luxury Goods"
+"2775","TLYS","Apparel Stores"
+"2776","TSU","Telecom Services"
+"2777","TKR","Tools &amp; Accessories"
+"2778","TMST","Steel"
+"2779","TWI","Farm &amp; Construction Equipment"
+"2780","TJX","Apparel Stores"
+"2781","TOL","Residential Construction"
+"2782","TR","Confectioners"
+"2783","BLD","Building Materials"
+"2784","TMK","Insurance - Life"
+"2785","TMK^C",NA
+"2786","TTC","Tools &amp; Accessories"
+"2787","TD","Banks - Global"
+"2788","SHLL.U",NA
+"2789","NDP","Asset Management"
+"2790","TYG","Asset Management"
+"2791","NTG","Asset Management"
+"2792","TTP","Asset Management"
+"2793","TPZ","Asset Management"
+"2794","TOT","Oil &amp; Gas Integrated"
+"2795","TSS","Credit Services"
+"2796","TOWR","Auto Parts"
+"2797","TSQ","Broadcasting - Radio"
+"2798","TM","Auto Manufacturers"
+"2799","TPGH","Conglomerates"
+"2800","TPGH.U",NA
+"2801","TPGH.WS",NA
+"2802","TRTX","REIT - Diversified"
+"2803","TSLX","Asset Management"
+"2804","TAC","Utilities - Independent Power Producers"
+"2805","TRP","Oil &amp; Gas Midstream"
+"2806","TCI","REIT - Diversified"
+"2807","TDG","Aerospace &amp; Defense"
+"2808","RIG","Oil &amp; Gas Drilling"
+"2809","TGS","Utilities - Regulated Gas"
+"2810","TRU","Business Services"
+"2811","TVPT","Leisure"
+"2812","TREC","Chemicals"
+"2813","TG","Conglomerates"
+"2814","THS","Packaged Foods"
+"2815","TREX","Building Materials"
+"2816","TY","Asset Management"
+"2817","TY^",NA
+"2818","TPH","Residential Construction"
+"2819","TRCO","Broadcasting - TV"
+"2820","TRNE.U",NA
+"2821","TNET","Business Services"
+"2822","TRN","Railroads"
+"2823","TSE","Rubber &amp; Plastics"
+"2824","TPVG","Asset Management"
+"2825","TPVY",NA
+"2826","GTS","Insurance - Diversified"
+"2827","TRTN","Rental &amp; Leasing Services"
+"2828","TRTN^A",NA
+"2829","TGI","Aerospace &amp; Defense"
+"2830","TROX","Chemicals"
+"2831","TBI","Staffing &amp; Outsourcing Services"
+"2832","TNP","Shipping &amp; Ports"
+"2833","TNP^B",NA
+"2834","TNP^C",NA
+"2835","TNP^D",NA
+"2836","TNP^E",NA
+"2837","TNP^F",NA
+"2838","TUP","Packaging &amp; Containers"
+"2839","TKC","Telecom Services"
+"2840","TPB","Tobacco"
+"2841","TRQ","Copper"
+"2842","TPC","Engineering &amp; Construction"
+"2843","TWLO","Software - Application"
+"2844","TWTR","Internet Content &amp; Information"
+"2845","TWO","REIT - Residential"
+"2846","TWO^A",NA
+"2847","TWO^B",NA
+"2848","TWO^C",NA
+"2849","TWO^D",NA
+"2850","TWO^E",NA
+"2851","TYL","Software - Application"
+"2852","TSN","Farm Products"
+"2853","USB","Banks - Regional - US"
+"2854","USB^A",NA
+"2855","USB^H",NA
+"2856","USB^M",NA
+"2857","USB^O",NA
+"2858","USB^P",NA
+"2859","USPH","Medical Care"
+"2860","SLCA","Industrial Metals &amp; Minerals"
+"2861","USX","Trucking"
+"2862","UBS","Banks - Global"
+"2863","UDR","REIT - Residential"
+"2864","UGI","Utilities - Regulated Gas"
+"2865","UGP","Oil &amp; Gas Refining &amp; Marketing"
+"2866","UMH","REIT - Residential"
+"2867","UMH^B",NA
+"2868","UMH^C",NA
+"2869","UMH^D",NA
+"2870","UA","Apparel Manufacturing"
+"2871","UAA","Apparel Manufacturing"
+"2872","UFI","Textile Manufacturing"
+"2873","UNF","Apparel Manufacturing"
+"2874","UN","Household &amp; Personal Products"
+"2875","UL","Household &amp; Personal Products"
+"2876","UNP","Railroads"
+"2877","UIS","Information Technology Services"
+"2878","UNT","Oil &amp; Gas Drilling"
+"2879","UMC","Semiconductors"
+"2880","UNFI","Food Distribution"
+"2881","UPS","Integrated Shipping &amp; Logistics"
+"2882","URI","Rental &amp; Leasing Services"
+"2883","USM","Telecom Services"
+"2884","UZA",NA
+"2885","UZB",NA
+"2886","UZC",NA
+"2887","X","Steel"
+"2888","UTX","Aerospace &amp; Defense"
+"2889","UNH","Health Care Plans"
+"2890","UTL","Utilities - Diversified"
+"2891","UNVR","Chemicals"
+"2892","UVV","Tobacco"
+"2893","UHT","REIT - Healthcare Facilities"
+"2894","UHS","Medical Care"
+"2895","UVE","Insurance - Property &amp; Casualty"
+"2896","UTI","Education &amp; Training Services"
+"2897","UNM","Insurance - Life"
+"2898","UNMA",NA
+"2899","UE","REIT - Diversified"
+"2900","UBA","REIT - Retail"
+"2901","UBP","REIT - Retail"
+"2902","UBP^G",NA
+"2903","UBP^H",NA
+"2904","USFD","Food Distribution"
+"2905","USAC","Oil &amp; Gas Equipment &amp; Services"
+"2906","USNA","Household &amp; Personal Products"
+"2907","USDP","Railroads"
+"2908","USG","Building Materials"
+"2909","BIF","Asset Management"
+"2910","VFC","Apparel Manufacturing"
+"2911","EGY","Oil &amp; Gas E&amp;P"
+"2912","MTN","Resorts &amp; Casinos"
+"2913","VALE","Industrial Metals &amp; Minerals"
+"2914","VLO","Oil &amp; Gas Refining &amp; Marketing"
+"2915","VHI","Chemicals"
+"2916","VMI","Metal Fabrication"
+"2917","VVV","Oil &amp; Gas Refining &amp; Marketing"
+"2918","VAPO","Medical Devices"
+"2919","VAR","Medical Instruments &amp; Supplies"
+"2920","VGR","Tobacco"
+"2921","VEC","Business Services"
+"2922","VEDL","Industrial Metals &amp; Minerals"
+"2923","VEEV","Health Information Services"
+"2924","VNTR","Chemicals"
+"2925","VTR","REIT - Healthcare Facilities"
+"2926","VNE","Auto Parts"
+"2927","VER","REIT - Diversified"
+"2928","VER^F",NA
+"2929","VRTV","Business Equipment"
+"2930","VZ","Telecom Services"
+"2931","VET","Oil &amp; Gas E&amp;P"
+"2932","VRS","Paper &amp; Paper Products"
+"2933","VSM","Chemicals"
+"2934","VVI","Business Services"
+"2935","VICI","REIT - Diversified"
+"2936","VNCE","Apparel Manufacturing"
+"2937","VIPS","Specialty Retail"
+"2938","ZTR","Asset Management"
+"2939","VGI","Asset Management"
+"2940","ZF","Asset Management"
+"2941","V","Credit Services"
+"2942","VSH","Semiconductors"
+"2943","VPG","Scientific &amp; Technical Instruments"
+"2944","VSTO","Leisure"
+"2945","DYNC","Utilities - Independent Power Producers"
+"2946","VST","Utilities - Independent Power Producers"
+"2947","VST.WS.A",NA
+"2948","VSI","Specialty Retail"
+"2949","VSLR","Solar"
+"2950","VMW","Software - Infrastructure"
+"2951","VOC","Oil &amp; Gas E&amp;P"
+"2952","VCRA","Communication Equipment"
+"2953","VG","Telecom Services"
+"2954","VNO","REIT - Office"
+"2955","VNO^K",NA
+"2956","VNO^L",NA
+"2957","VNO^M",NA
+"2958","VJET","Computer Systems"
+"2959","IAE","Asset Management"
+"2960","IHD","Asset Management"
+"2961","VOYA","Asset Management"
+"2962","IGA","Asset Management"
+"2963","IGD","Asset Management"
+"2964","IDE","Asset Management"
+"2965","IID","Asset Management"
+"2966","IRR","Asset Management"
+"2967","PPR","Asset Management"
+"2968","VMC","Building Materials"
+"2969","WTI","Oil &amp; Gas E&amp;P"
+"2970","WPC","REIT - Diversified"
+"2971","WRB","Insurance - Property &amp; Casualty"
+"2972","WRB^B",NA
+"2973","WRB^C",NA
+"2974","WRB^D",NA
+"2975","WRB^E",NA
+"2976","GRA","Specialty Chemicals"
+"2977","GWW","Industrial Distribution"
+"2978","WNC","Truck Manufacturing"
+"2979","WBC","Auto Parts"
+"2980","WDR","Asset Management"
+"2981","WAGE","Business Services"
+"2982","WD","Specialty Finance"
+"2983","WMT","Discount Stores"
+"2984","DIS","Media - Diversified"
+"2985","HCC","Coal"
+"2986","WPG","REIT - Retail"
+"2987","WPG^H",NA
+"2988","WPG^I",NA
+"2989","WRE","REIT - Office"
+"2990","WCN","Waste Management"
+"2991","WM","Waste Management"
+"2992","WAT","Diagnostics &amp; Research"
+"2993","WSO","Electronics Distribution"
+"2994","WSO.B",NA
+"2995","WTS","Diversified Industrials"
+"2996","W","Specialty Retail"
+"2997","WFT","Oil &amp; Gas Equipment &amp; Services"
+"2998","WBS","Banks - Regional - US"
+"2999","WBS^F",NA
+"3000","WEC","Utilities - Regulated Electric"
+"3001","WEI","Credit Services"
+"3002","WRI","REIT - Retail"
+"3003","WMK","Grocery Stores"
+"3004","WBT","Diversified Industrials"
+"3005","WCG","Health Care Plans"
+"3006","WFC","Banks - Global"
+"3007","WFC^L",NA
+"3008","WFC^N",NA
+"3009","WFC^O",NA
+"3010","WFC^P",NA
+"3011","WFC^Q",NA
+"3012","WFC^R",NA
+"3013","WFC^T",NA
+"3014","WFC^V",NA
+"3015","WFC^W",NA
+"3016","WFC^X",NA
+"3017","WFC^Y",NA
+"3018","WFE^A",NA
+"3019","EOD","Asset Management"
+"3020","WELL","REIT - Healthcare Facilities"
+"3021","WAIR","Industrial Distribution"
+"3022","WCC","Industrial Distribution"
+"3023","WST","Medical Instruments &amp; Supplies"
+"3024","WAL","Banks - Regional - US"
+"3025","WALA",NA
+"3026","WEA","Asset Management"
+"3027","TLI","Asset Management"
+"3028","EMD","Asset Management"
+"3029","GDO","Asset Management"
+"3030","EHI","Asset Management"
+"3031","HIX","Asset Management"
+"3032","HIO","Asset Management"
+"3033","HYI","Asset Management"
+"3034","SBI","Asset Management"
+"3035","IGI","Asset Management"
+"3036","PAI","Asset Management"
+"3037","MMU","Asset Management"
+"3038","WMC","REIT - Diversified"
+"3039","DMO","Asset Management"
+"3040","MTT","Asset Management"
+"3041","MHF","Asset Management"
+"3042","MNP","Asset Management"
+"3043","GFY","Asset Management"
+"3044","WIW","Asset Management"
+"3045","WIA","Asset Management"
+"3046","WES","Oil &amp; Gas Pipelines"
+"3047","WU","Credit Services"
+"3048","WAB","Railroads"
+"3049","WLK","Specialty Chemicals"
+"3050","WLKP","Chemicals"
+"3051","WBK","Banks - Global"
+"3052","WRK","Packaging &amp; Containers"
+"3053","WHG","Asset Management"
+"3054","WEX","Business Services"
+"3055","WY","Lumber &amp; Wood Production"
+"3056","WPM","Silver"
+"3057","WHR","Home Furnishings &amp; Fixtures"
+"3058","WTM","Insurance - Property &amp; Casualty"
+"3059","WSR","REIT - Retail"
+"3060","WLL","Oil &amp; Gas E&amp;P"
+"3061","WOW","Pay TV"
+"3062","WMB","Oil &amp; Gas Midstream"
+"3063","WSM","Specialty Retail"
+"3064","WGO","Recreational Vehicles"
+"3065","WIT","Information Technology Services"
+"3066","WNS","Business Services"
+"3067","WWW","Footwear &amp; Accessories"
+"3068","WF","Banks - Regional - Asia"
+"3069","WK","Software - Application"
+"3070","INT","Oil &amp; Gas Refining &amp; Marketing"
+"3071","WWE","Media - Diversified"
+"3072","WP","Business Services"
+"3073","WOR","Steel"
+"3074","WPP","Advertising Agencies"
+"3075","WPX","Oil &amp; Gas E&amp;P"
+"3076","WYND","Lodging"
+"3077","WH","Lodging"
+"3078","XYF","Credit Services"
+"3079","XFLT",NA
+"3080","XHR","REIT - Hotel &amp; Motel"
+"3081","XRX","Information Technology Services"
+"3082","XIN","Real Estate - General"
+"3083","XPO","Integrated Shipping &amp; Logistics"
+"3084","XYL","Diversified Industrials"
+"3085","AUY","Gold"
+"3086","YELP","Internet Content &amp; Information"
+"3087","YETI","Packaging &amp; Containers"
+"3088","YEXT","Software - Infrastructure"
+"3089","YRD","Credit Services"
+"3090","YPF","Oil &amp; Gas Integrated"
+"3091","YUMC","Restaurants"
+"3092","YUM","Restaurants"
+"3093","ZAYO","Communication Equipment"
+"3094","ZEN","Software - Application"
+"3095","ZBH","Medical Devices"
+"3096","ZB^A",NA
+"3097","ZB^G",NA
+"3098","ZB^H",NA
+"3099","ZBK",NA
+"3100","ZTS","Drug Manufacturers - Specialty &amp; Generic"
+"3101","ZTO","Integrated Shipping &amp; Logistics"
+"3102","ZUO","Software - Infrastructure"
+"3103","ZYME","Biotechnology"
